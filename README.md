@@ -9,11 +9,13 @@
 **Version 1.0 — Companion Practice Record to the Core README**  
 **Date: 27 October 2026**
 
+[HEE Core README](https://github.com/titumozammel/human-energy-economics) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [HEE Profile](https://github.com/titumozammel) · [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/mozammel-hee)
+
 ---
 
 > **Evidence status.** This is an **author-reported practice record** [H], not independent evidence and not controlled research. The author designed, implemented, and assessed these interventions and also originated HEE, so independent review is required before any claim is treated as tested. Where this edition does not hold a baseline, a period, or a record, it says **Not recorded**, which means **Unknown**. The author also offers a commercial diagnostic service, The Capacity Read (Ovinabo Advisory), disclosed in the Core README; it is not part of this record's evidence. Evidence labels follow the [HEE Core README](https://github.com/titumozammel/human-energy-economics): [E] researched, [A] adapted, [P] proposed and untested, [H] practice heuristic, [Illustrative] invented example.
 
-**Jump to:** [At a glance](#at-a-glance) · [Case 1](#4-case-1--performance-wizard) · [Case 2](#5-case-2--rdp--computer-restart-self-service) · [Case 3](#6-case-3--quarterly-hardware-health-check) · [Case 4](#7-case-4--report-performance-and-information-richness) · [Case 5](#8-case-5--capability-enablement-internal-application-without-external-vendor-cost) · [Case 6](#9-case-6--solution-purchase-and-month-wise-stocking) · [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded) · [Limitations](#19-limitations-and-boundaries-of-the-record) · [Research status](#23-research-status)
+**Jump to:** [At a glance](#at-a-glance) · [Case 1](#4-case-1--performance-wizard) · [Case 2](#5-case-2--rdp--computer-restart-self-service) · [Case 3](#6-case-3--quarterly-hardware-health-check) · [Case 4](#7-case-4--report-performance-and-information-richness) · [Case 5](#8-case-5--capability-enablement-internal-application-without-external-vendor-cost) · [Case 6](#9-case-6--solution-purchase-and-month-wise-stocking) · [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded) · [Limitations](#19-limitations-and-boundaries-of-the-record) · [Research status](#23-research-status) · [LICENSE](#license)
 
 ## At a glance
 
@@ -850,7 +852,7 @@ The cases illustrate how concepts that became part of HEE and associated framewo
 
 They constitute:
 
-> **documented operating evidence and proposition-generating observations, not universal proof.**
+> **author-reported operating evidence and proposition-generating observations, not universal proof.**
 
 This distinction is deliberately maintained because the credibility of a developing theory depends not only on what it claims, but also on what it refuses to claim.
 
@@ -1008,3 +1010,13 @@ The practical direction is:
 > **Stop the drain. Protect the capacity. Enable the capability. Apply it. Strengthen execution.**
 
 That is the practical direction of **Human Energy Economics**.
+
+---
+
+## LICENSE
+
+This framework is released under the:
+
+> **MIT License**
+
+The license permits use, modification, distribution, and further development subject to the terms of the MIT License. Copyright © 2026 Md. Mozammel Hoque. The full text is in the `LICENSE` file in the repository. AKG names, trademarks, and any third-party material remain subject to their owners' terms; this license does not extend to them.
