@@ -6,16 +6,33 @@
 *Independent Management Researcher*  
 *Originator of Human Energy Economics (HEE)*
 
-**Version 1.0 — Canonical Edition**  
-**Date: 7 September 2026**
+**Version 1.0 — Companion Practice Record to the Core README**  
+**Date: 27 October 2026**
 
 ---
+
+> **Evidence status.** This is an **author-reported practice record** [H], not independent evidence and not controlled research. The author designed, implemented, and assessed these interventions and also originated HEE, so independent review is required before any claim is treated as tested. Where this edition does not hold a baseline, a period, or a record, it says **Not recorded**, which means **Unknown**. The author also offers a commercial diagnostic service, The Capacity Read (Ovinabo Advisory), disclosed in the Core README; it is not part of this record's evidence. Evidence labels follow the [HEE Core README](https://github.com/titumozammel/human-energy-economics): [E] researched, [A] adapted, [P] proposed and untested, [H] practice heuristic, [Illustrative] invented example.
+
+**Jump to:** [At a glance](#at-a-glance) · [Case 1](#4-case-1--performance-wizard) · [Case 2](#5-case-2--rdp--computer-restart-self-service) · [Case 3](#6-case-3--quarterly-hardware-health-check) · [Case 4](#7-case-4--report-performance-and-information-richness) · [Case 5](#8-case-5--capability-enablement-internal-application-without-external-vendor-cost) · [Case 6](#9-case-6--solution-purchase-and-month-wise-stocking) · [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded) · [Limitations](#19-limitations-and-boundaries-of-the-record) · [Research status](#23-research-status)
+
+## At a glance
+
+| Case | Recurring condition | Intervention | 5R logic | Reported result |
+|---|---|---|---|---|
+| **Performance Wizard** | Repeated application and desktop support requests | Self-service wizard | **REPLACE** | Recurring requests removed from the normal workload |
+| **RDP / Restart** | Human-mediated restart chain | Self-service restart | **REPLACE** | Calls reduced to zero |
+| **Hardware Health** | Recurring preventable incidents | Quarterly health checks | **RE-ENGINEER** | Related calls reduced to zero |
+| **Report** | Slow, insufficiently contextual report | Report and system redesign | **RE-ENGINEER** | About 9 minutes to about 9 seconds |
+| **Capability** | Internal capability constrained by dependency | Role expansion and enablement | **ENABLE** | Applicable work done internally without external vendor cost |
+| **Procurement** | Predictable recurring requirements | Solution purchasing and month-wise stocking | **RE-ENGINEER + RETAIN** | Faster fulfillment, fewer process man-hours |
+
+All results are author-reported. See [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded) for what each case does and does not document.
 
 ## 1. CONTEXT
 
 Human Energy Economics (HEE) developed from a central practical observation: organizations can lose execution capacity not only because they lack people, skills, technology, or resources, but because existing organizational capacity is repeatedly consumed by unnecessary, preventable, poorly designed, or unnecessarily human-mediated work.
 
-During my tenure as Chief Innovation Officer (CInO) at **Abul Khair Group (AKG)**, a diversified Bangladeshi business group, a number of technology and operating interventions were designed and implemented to address recurring operational demand, internal capability, external dependency, process design, prevention, self-service, and organizational enablement.
+During the author's tenure as Chief Innovation Officer (CInO) at **Abul Khair Group (AKG)**, a diversified Bangladeshi business group, a number of technology and operating interventions were designed and implemented to address recurring operational demand, internal capability, external dependency, process design, prevention, self-service, and organizational enablement.
 
 **Official website:** [Abul Khair Group](https://www.abulkhairgroup.com/)
 
@@ -57,7 +74,7 @@ The preservation of organizational capacity is the consequence.
 
 The cases in this record are selected from a broader body of operating work undertaken at AKG.
 
-They are presented not merely as technology success stories, process improvements, or individual achievements, but as practical operating evidence showing how recurring organizational drain can be identified and addressed.
+They are presented not merely as technology success stories, process improvements, or individual achievements, but as author-reported operating observations that illustrate how recurring organizational drain can be identified and addressed.
 
 The cases illustrate different forms of organizational consumption:
 
@@ -103,6 +120,8 @@ HEE therefore asks a prior question:
 
 > **Should the organization still be consuming this capacity in this way?**
 
+This record applies a drain lens. The Core README adds two separate checks: whether capacity spent was **Justified?** and whether next-cycle demand is **Covered?** The cases below mainly address the first: they judge a recurring demand not warranted in its current form (Case 6 judges the demand legitimate). They do not assess whether future capacity was covered, so that question is **Not assessed** here.
+
 ---
 
 # 4. CASE 1 — PERFORMANCE WIZARD
@@ -143,9 +162,9 @@ The case illustrates a central HEE principle:
 
 > **Do not optimize the handling of unnecessary recurring demand before asking whether the demand can be removed or replaced.**
 
-The economic effect is not merely fewer tickets.
+The effect sought is not merely fewer tickets.
 
-It is the preservation of Human Energy and organizational capacity previously consumed by repetitive support activity.
+Reduced support work may create an opportunity to release Human Energy and organizational capacity previously consumed by repetitive support activity. Whether it did depends on how the time was reallocated, any displaced workload, maintenance costs, and subsequent use. This record does not document any of these (see Evidence recorded).
 
 ---
 
@@ -177,7 +196,7 @@ The primary 5R logic was:
 
 ## 5.3 Observed Result
 
-The recurring restart calls were reduced to **zero following the intervention**.
+The recurring restart calls were reported to have been reduced to **zero following the intervention** (author-reported; the observation period and records are Not recorded).
 
 The important change was therefore not simply faster restart execution.
 
@@ -223,7 +242,7 @@ The primary 5R logic was:
 
 ## 6.3 Observed Result
 
-Related recurring calls were reduced to **zero following the intervention**.
+Related recurring calls were reported to have been reduced to **zero following the intervention** (author-reported; the observation period and records are Not recorded).
 
 The intervention therefore changed the conditions generating the demand rather than merely improving the response to incidents.
 
@@ -298,7 +317,7 @@ The before-and-after figures represent observed report-generation time under the
 
 The significance of this case is not simply the speed improvement.
 
-It demonstrates that performance improvement can involve both:
+It illustrates that performance improvement can involve both:
 
 1. **process efficiency**, and
 2. **information design**.
@@ -311,7 +330,7 @@ This illustrates a broader HEE question:
 
 ---
 
-# 8. CASE 5 — CAPABILITY ENABLEMENT: ZERO VENDOR COST
+# 8. CASE 5 — CAPABILITY ENABLEMENT: INTERNAL APPLICATION WITHOUT EXTERNAL VENDOR COST
 
 ## 8.1 Operating Condition
 
@@ -325,10 +344,9 @@ The deeper question was whether existing capability could be converted into effe
 
 This produced an important HEE distinction:
 
-> **Capability = Potential**  
-> **Capacity = Application**
+> **Capability is potential. Capacity is the part of it available in time, attention, and energy. Enablement is whether it can be reached. Application puts it to work.**
 
-Capability alone does not constitute organizational capacity.
+Capability alone does not constitute available organizational capacity.
 
 ## 8.2 Intervention
 
@@ -350,7 +368,7 @@ It addressed the organizational conditions required for capability to become app
 
 ## 8.3 Observed Result
 
-Applicable infrastructure work was undertaken internally without external vendor cost.
+Applicable infrastructure work was undertaken internally without external vendor cost. The vendor cost avoided and the internal time spent are **Not recorded** in this edition, so the size of the saving is Unknown.
 
 The important change was therefore not simply the acquisition of additional knowledge.
 
@@ -358,7 +376,7 @@ It was the conversion of internal capability into effective application.
 
 The logic can be represented as:
 
-**Capability → Application → Capacity**
+**Capability → Application → Execution**
 
 rather than:
 
@@ -368,7 +386,7 @@ rather than:
 
 This case became particularly important to the development of **Human Energy Enablement (HEEn)**.
 
-It demonstrated that an organization may possess capability while still failing to obtain the capacity that capability could provide.
+It illustrated that an organization may possess capability while still failing to obtain the capacity that capability could provide.
 
 The constraint may lie in organizational conditions rather than in the capability itself.
 
@@ -420,7 +438,7 @@ The organization continued to satisfy legitimate requirements while reducing the
 
 ## 9.4 HEE Interpretation
 
-This case demonstrates why **RETAIN** is an essential part of the 5R Cascade.
+This case illustrates why **RETAIN** is an essential part of the 5R Cascade.
 
 Not all recurring demand is unnecessary.
 
@@ -438,26 +456,39 @@ This distinction prevents demand reduction from becoming an objective in itself.
 
 ---
 
-# 10. CONSOLIDATED CASE VIEW
+# 10. CONSOLIDATED CASE VIEW AND EVIDENCE RECORDED
 
-| Case | Recurring Condition | Intervention | 5R / HEE Logic | Observed Result |
+| Case | Baseline and period | Reported change | Where released capacity went | Justified? | Covered? |
+|---|---|---|---|---|---|
+| **Performance Wizard**¹ | About 15 requests per day; period Not recorded | Recurring requests removed from the normal workload | Not recorded (Unknown) | Author judgment: recurring demand not warranted in this form | Not assessed |
+| **RDP / Restart**¹ | About 20 calls per day; period Not recorded | Reduced to zero | Not recorded (Unknown) | Author judgment: the multi-step chain not warranted | Not assessed |
+| **Hardware Health**¹ | About 15 calls per day; period Not recorded | Related calls reduced to zero | Not recorded (Unknown) | Author judgment: preventable incidents | Not assessed |
+| **Report** | About 9 minutes; operating observation, not a benchmark | About 9 seconds; utilization below threshold (threshold Not recorded) | Not recorded (Unknown) | Not assessed | Not assessed |
+| **Capability** | Vendor cost and internal time Not recorded | Applicable work done internally without external vendor cost | Not recorded (Unknown) | Not assessed | Not assessed |
+| **Procurement** | Not recorded | Faster fulfillment, fewer process man-hours (no figures) | Not recorded (Unknown) | Yes, demand legitimate (author judgment) | Not assessed |
+
+**¹ Aggregate recurring demand across the relevant problem categories. The first three cases together represented approximately 50 recurring requests or calls per day across three categories.** These figures do not represent demand handled by a single officer.
+
+### Provenance of each case
+
+The Core README asks that each entry record its selection rationale, dates, data source, and whether it is observed, reported, estimated, illustrative, or independently verified. This edition holds the following; everything else is Not recorded.
+
+| Case | Selection rationale | Dates | Data source | Status |
 |---|---|---|---|---|
-| **Performance Wizard** | Repeated application / desktop support | Self-service | **REPLACE** | Recurring requests removed |
-| **RDP / Restart** | Repeated human-mediated restart chain | Self-service | **REPLACE** | Calls reduced to zero |
-| **Hardware Health** | Recurring preventable incidents | Quarterly health checks | **RE-ENGINEER** | Related calls reduced to zero |
-| **Report** | Slow and insufficiently contextual reporting | Report redesign + system improvement | **RE-ENGINEER** | ~9 min → ~9 sec |
-| **Capability** | Internal capability constrained by dependency | Capability development + enablement | **ENABLE / APPLICATION** | Applicable work performed without vendor cost |
-| **Procurement** | Predictable recurring requirements | Solution purchasing + month-wise stocking | **RE-ENGINEER / RETAIN** | Faster fulfillment + reduced process consumption |
+| **Performance Wizard** | Selected by the author from a broader body of AKG work; criteria Not recorded | Not recorded | Not recorded | Author-reported; observed or estimated Not recorded; not independently verified |
+| **RDP / Restart** | As above | Not recorded | Not recorded | Author-reported; observed or estimated Not recorded; not independently verified |
+| **Hardware Health** | As above | Not recorded | Not recorded | Author-reported; observed or estimated Not recorded; not independently verified |
+| **Report** | As above | Not recorded | Observed report-generation times before and after redesign (§7.3) | Author-observed; an operating observation, not a benchmark; not independently verified |
+| **Capability** | As above | Not recorded | Not recorded | Author-reported; not independently verified |
+| **Procurement** | As above | Not recorded | Not recorded | Author-reported; not independently verified |
 
-**¹ Aggregate recurring demand across the relevant problem categories. The first three cases represented approximately 50 recurring requests/calls per day across the three relevant categories.**
-
-These figures describe aggregate recurring demand across the relevant categories; they do not represent demand personally handled by a single officer.
+**How to read these tables.** *Not recorded* means this edition does not hold the figure, which makes it **Unknown**, not zero. *Justified?* and *Covered?* are the Core README's two checks; the Justified? entries are the author's judgment with no independent check. Filling the Not recorded cells from AKG records, where they exist, would turn these observations into stronger evidence.
 
 ---
 
 # 11. WHAT THE CASES REVEAL ABOUT ORGANIZATIONAL DRAIN
 
-The cases demonstrate that organizational drain can arise through many mechanisms.
+The cases suggest that organizational drain can arise through many mechanisms.
 
 Human Energy and organizational capacity can be consumed through:
 
@@ -511,7 +542,7 @@ Human Energy is consumed through:
 - external dependency; and
 - repetitive recurring activity.
 
-The relevant economic question is not merely how much work exists, but how much Human Energy is consumed to sustain it.
+The relevant capacity question is not merely how much work exists, but how much Human Energy is consumed to sustain it.
 
 ## 12.2 Capability
 
@@ -519,17 +550,13 @@ Capability represents what people or organizations know and can potentially do.
 
 But:
 
-> **Capability = Potential.**
+> **Capability is potential.**
 
-Capability does not automatically become organizational capacity.
+Capability does not automatically become available organizational capacity.
 
 ## 12.3 Capacity
 
-Capacity emerges when capability can be effectively applied.
-
-Therefore:
-
-> **Capacity = Application.**
+Capacity is the part of capability available in time, attention, and energy. Enablement determines whether it can be reached, and application puts it to work.
 
 This distinction is particularly visible in the capability-enablement case.
 
@@ -586,7 +613,7 @@ The intervention logic can then be applied:
 
 **REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
 
-The cases demonstrate that different operating conditions require different interventions.
+The cases suggest that different operating conditions may call for different interventions.
 
 ## 12.9 Human Energy Enablement
 
@@ -594,7 +621,7 @@ Where capability exists but cannot be effectively applied, **HEEn** becomes rele
 
 Its practical logic is:
 
-**Capability → Application → Capacity**
+**Capability → Application → Execution**
 
 ## 12.10 Execution Excellence
 
@@ -608,7 +635,7 @@ Preserving capacity without directing it toward valuable application does not au
 
 # 13. FROM DEMAND REDUCTION TO CAPACITY PRESERVATION
 
-Demand reduction is not the final economic objective.
+Demand reduction is not the final objective.
 
 The deeper sequence is:
 
@@ -635,17 +662,19 @@ Therefore:
 
 > **Stopping organizational drain creates capacity opportunity; deliberate application converts that opportunity into value.**
 
+The cases in this record do not document where released capacity went or who owned it. The Core README's reabsorption prediction (P13) is proposed and untested, and this record neither supports nor tests it: the destination of released capacity is **Unknown** for every case.
+
 ---
 
 # 14. PROPOSITIONS EMERGING FROM THE AKG CASES
 
-The cases generate the following propositions for further investigation.
+The cases generate the following propositions for further investigation. They are numbered separately from the Core README's P-series (P1–P16), are hypothesis-generating, and are not evidence for any Core README proposition.
 
 ### Proposition 1
-**Operational demand can function as economic drain when it repeatedly consumes Human Energy without sufficient corresponding value.**
+**Operational demand can function as a capacity drain when it repeatedly consumes Human Energy without sufficient corresponding value.**
 
 ### Proposition 2
-**The best intervention is not necessarily process improvement; in some conditions, removal or replacement may be economically superior.**
+**The best intervention is not necessarily process improvement; in some conditions, removal or replacement may preserve more capacity.** Whether it is also cheaper requires a cost analysis this record does not contain.
 
 ### Proposition 3
 **Prevention can create greater capacity than repeated response when recurring problems originate from addressable operating conditions.**
@@ -666,7 +695,7 @@ The cases generate the following propositions for further investigation.
 **Released capacity must be deliberately protected and redirected toward higher-value application.**
 
 ### Proposition 9
-**Stopping recurring organizational drain can create execution capacity without increasing headcount.**
+**Stopping recurring organizational drain can create execution capacity without increasing headcount.** Headcount data are not recorded in these cases.
 
 These propositions are presented as **propositions for further investigation, not as universal empirical claims**.
 
@@ -808,6 +837,8 @@ The cases:
 - do not establish that identical results will occur elsewhere;
 - do not establish that the observed magnitudes will be replicated;
 - do not establish exclusive attribution where multiple factors may have contributed;
+- were designed, implemented, and assessed by the same person who originated HEE, without independent review;
+- do not record, for any case, where released capacity went;
 - are not controlled or randomized experiments;
 - do not constitute independent replication;
 - do not provide statistical generalizability; and
@@ -815,7 +846,7 @@ The cases:
 
 The appropriate claim is narrower.
 
-The cases demonstrate how concepts that became part of HEE and associated frameworks were translated into practical operating interventions.
+The cases illustrate how concepts that became part of HEE and associated frameworks were translated into practical operating interventions.
 
 They constitute:
 
@@ -831,7 +862,7 @@ By 2025, a cumulative direction was visible across the operating work:
 
 **Request Processing → Problem Elimination → System Improvement → Capability Development → Solution Creation → Organizational Enablement**
 
-The resulting value did not come from a single mechanism.
+The reported changes did not come from a single mechanism.
 
 It came from changing the relationship between recurring organizational demand and available capacity.
 
@@ -844,8 +875,8 @@ This included:
 - reducing external dependency;
 - redesigning recurring processes;
 - improving information and decision support;
-- changing the conditions generating demand; and
-- protecting capacity released through intervention.
+- changing the conditions generating demand;
+- and, as a recommended follow-up that this record does not document, protecting any capacity released through intervention.
 
 The role of the function therefore became less about how much work it could absorb and increasingly about:
 
@@ -895,7 +926,7 @@ The resulting architecture is:
 
 # 22. CONCLUSION
 
-The AKG cases demonstrate that recurring organizational demand can consume Human Energy and organizational capacity long after the original reason for that consumption has ceased to justify it.
+The AKG cases suggest that recurring organizational demand can consume Human Energy and organizational capacity long after the original reason for that consumption has ceased to justify it.
 
 The interventions explored different ways of changing that condition:
 
@@ -926,8 +957,7 @@ The objective is **more organizational capacity available for valuable work**.
 
 The distinction between capability and capacity remains central:
 
-> **Capability = Potential.**  
-> **Capacity = Application.**
+> **Capability is potential. Capacity is the part of it available in time, attention, and energy. Application puts it to work.**
 
 And the broader principle remains:
 
@@ -945,23 +975,23 @@ Patterns contributed to the development of HEE.
 
 The practical operating lesson is therefore:
 
-> **The drain was stopped, and organizational capacity became available for more valuable application.**
+> **The interventions were reported to reduce or change recurring work. Whether they released usable capacity, and how that capacity was then applied, remains unknown in this record.**
 
 ---
 
 # 23. RESEARCH STATUS
 
-This document is the **Canonical Operating Record of selected applications and observations associated with the development of Human Energy Economics**.
+This document is the **Operating Record of selected applications and observations associated with the development of Human Energy Economics**.
 
 Its purposes are to:
 
 1. document selected operating cases;
-2. demonstrate how conceptual ideas translated into practical interventions;
+2. illustrate how conceptual ideas translated into practical interventions;
 3. identify recurring patterns;
 4. generate propositions and research questions; and
 5. provide a foundation for further empirical investigation.
 
-It is not a substitute for independent empirical research.
+It is a companion to the [HEE Core README](https://github.com/titumozammel/human-energy-economics) and is held with the [HEE Case Studies](https://github.com/titumozammel/hee-case-studies). It is not a substitute for independent empirical research, and the Core README governs where the two differ.
 
 The intended progression remains:
 
