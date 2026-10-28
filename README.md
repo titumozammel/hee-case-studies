@@ -7,7 +7,7 @@
 *Originator of Human Energy Economics (HEE)*
 
 **Version 1.0 — Companion Practice Record to the Core README**  
-**Date: 27 October 2026**
+**Date: 28 October 2026**
 
 [HEE Core README](https://github.com/titumozammel/human-energy-economics) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [HEE Profile](https://github.com/titumozammel) · [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/mozammel-hee)
 
