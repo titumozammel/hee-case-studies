@@ -15,26 +15,39 @@
 
 > **Evidence status.** This is an **author-reported practice record** [H], not independent evidence and not controlled research. The author designed, implemented, and assessed these interventions and also originated HEE, so independent review is required before any claim is treated as tested. Where this edition does not hold a baseline, a period, or a record, it says **Not recorded**, which means **Unknown**. The author also offers a commercial diagnostic service, The Capacity Read (Ovinabo Advisory), disclosed in the Core README; it is not part of this record's evidence. Evidence labels follow the [HEE Core README](https://github.com/titumozammel/human-energy-economics): [E] researched, [A] adapted, [P] proposed and untested, [H] practice heuristic, [Illustrative] invented example.
 
-**Jump to:** [At a glance](#at-a-glance) · [Case 1](#4-case-1--performance-wizard) · [Case 2](#5-case-2--rdp--computer-restart-self-service) · [Case 3](#6-case-3--quarterly-hardware-health-check) · [Case 4](#7-case-4--report-performance-and-information-richness) · [Case 5](#8-case-5--capability-enablement-internal-application-without-external-vendor-cost) · [Case 6](#9-case-6--solution-purchase-and-month-wise-stocking) · [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded) · [Limitations](#19-limitations-and-boundaries-of-the-record) · [Research status](#23-research-status) · [LICENSE](#license)
+**Jump to:** [Find your question](#find-your-question) · [The Decision Point](#the-decision-point) · [At a glance](#at-a-glance) · [Case 1](#4-case-1--performance-wizard) · [Case 2](#5-case-2--rdp--computer-restart-self-service) · [Case 3](#6-case-3--quarterly-hardware-health-check) · [Case 4](#7-case-4--report-performance-and-information-richness) · [Case 5](#8-case-5--capability-enablement-internal-application-without-external-vendor-cost) · [Case 6](#9-case-6--solution-purchase-and-month-wise-stocking) · [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded) · [Limitations](#19-limitations-and-boundaries-of-the-record) · [Research status](#23-research-status) · [LICENSE](#license)
+
+## Find your question
+
+| Question | Primary function | Asked by | Answered in | Decision it unlocks |
+| --- | --- | --- | --- | --- |
+| Which case resembles my operating problem? | Locate a relevant example | Owner, practitioner, learner | [At a glance](#at-a-glance) | Which case warrants closer examination |
+| What choice was made, and was it sound? | Separate decision assessments | Owner, auditor | [The Decision Point](#the-decision-point); [evidence recorded](#10-consolidated-case-view-and-evidence-recorded) | Whether the record supports a judgment or the answer remains Unknown |
+| What supports each reported result? | Establish provenance | Researcher, practitioner | [Evidence and provenance](#10-consolidated-case-view-and-evidence-recorded) | What further records are needed before relying on a result |
+| Did internal capability need development or enablement? | Examine a candidate explanation | Manager, practitioner | [Case 5](#8-case-5--capability-enablement-internal-application-without-external-vendor-cost) | Which distinction to investigate in a new setting |
+| Should legitimate demand be retained but handled differently? | Examine demand disposition | Owner, process lead | [Case 6](#9-case-6--solution-purchase-and-month-wise-stocking) | Whether redesign is preferable to removal |
+| Was future capacity covered, or released capacity protected? | Identify evidence limits | Owner, planner | [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded); [capacity preservation](#13-from-demand-reduction-to-capacity-preservation) | What follow-up is required; neither outcome is established here |
+| Does this record demonstrate compliance with a standard? | Select an audit route | Auditor, governance lead | [Investigation and audit use](#investigation-and-audit-use) | Whether a separate criterion-based audit is needed |
+| What does the record contribute to research? | Separate hypothesis origins from validation | Academic, researcher | [Propositions](#14-propositions-emerging-from-the-akg-cases); [limitations](#19-limitations-and-boundaries-of-the-record) | Which claim needs independent testing |
 
 ## At a glance
 
-| Case | Recurring condition | Intervention | 5R logic | Reported result |
+| Case | Recurring condition | Intervention | Disposition or enablement logic | Reported result |
 |---|---|---|---|---|
 | **Performance Wizard** | Repeated application and desktop support requests | Self-service wizard | **REPLACE** | Recurring requests removed from the normal workload |
 | **RDP / Restart** | Human-mediated restart chain | Self-service restart | **REPLACE** | Calls reduced to zero |
 | **Hardware Health** | Recurring preventable incidents | Quarterly health checks | **RE-ENGINEER** | Related calls reduced to zero |
 | **Report** | Slow, insufficiently contextual report | Report and system redesign | **RE-ENGINEER** | About 9 minutes to about 9 seconds |
 | **Capability** | Internal capability constrained by dependency | Role expansion and enablement | **ENABLE** | Applicable work done internally without external vendor cost |
-| **Procurement** | Predictable recurring requirements | Solution purchasing and month-wise stocking | **RE-ENGINEER + RETAIN** | Faster fulfillment, fewer process man-hours |
+| **Procurement** | Predictable recurring requirements | Solution purchasing and month-wise stocking | **RE-ENGINEER + RETAIN** (a retain-and-redesign case, not drain removal) | Faster fulfillment, fewer process man-hours |
 
-All results are author-reported. See [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded) for what each case does and does not document.
+All results are author-reported. Case 6 is a retain-and-redesign case, not a drain-removal case. See [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded) for what each case does and does not document.
 
 ## 1. CONTEXT
 
 Human Energy Economics (HEE) developed from a central practical observation: organizations can lose execution capacity not only because they lack people, skills, technology, or resources, but because existing organizational capacity is repeatedly consumed by unnecessary, preventable, poorly designed, or unnecessarily human-mediated work.
 
-During the author's tenure as Chief Innovation Officer (CInO) at **Abul Khair Group (AKG)**, a diversified Bangladeshi business group, a number of technology and operating interventions were designed and implemented to address recurring operational demand, internal capability, external dependency, process design, prevention, self-service, and organizational enablement.
+In the author's role as Chief Innovation Officer (CInO) at **Abul Khair Group (AKG)**, a diversified Bangladeshi business group, a number of technology and operating interventions were designed and implemented to address recurring operational demand, internal capability, external dependency, process design, prevention, self-service, and organizational enablement.
 
 **Official website:** [Abul Khair Group](https://www.abulkhairgroup.com/)
 
@@ -66,9 +79,9 @@ Instead of only processing demand more efficiently, interventions increasingly s
 
 The central practical idea became simple:
 
-> **The drain is stopped.**
+> **Unnecessary drain is stopped; legitimate demand is redesigned.**
 
-The preservation of organizational capacity is the consequence.
+Reduced recurring work may create an opportunity to release capacity. This record does not establish the amount of usable capacity released, its subsequent use, or future coverage.
 
 ---
 
@@ -123,6 +136,50 @@ HEE therefore asks a prior question:
 > **Should the organization still be consuming this capacity in this way?**
 
 This record applies a drain lens. The Core README adds two separate checks: whether capacity spent was **Justified?** and whether next-cycle demand is **Covered?** The cases below mainly address the first: they judge a recurring demand not warranted in its current form (Case 6 judges the demand legitimate). They do not assess whether future capacity was covered, so that question is **Not assessed** here.
+
+### The Decision Point
+
+*Quoted from the Core README’s The Decision Point (the canonical text). If the two differ, the Core README governs.*
+
+Within HEE, consequential decisions along the pathway from capability to sustainable results should be explicit and reviewable. Evaluate them using four distinct definitions:
+
+1. **Decision Enablement:** whether the necessary decision rights, information, authority, and access exist.
+2. **Decision Process Quality:** how the decision was reached.
+3. **Decision Quality:** whether the choice was appropriate given what could reasonably be known.
+4. **Decision Outcome Quality:** what actually happened.
+
+**Model boundary.** Decision Process Quality remains the core model’s conversion condition. These four definitions are complementary assessment lenses, not four additional conversion conditions or compulsory sequential stages.
+
+Assess these separately. A good outcome does not prove that the process or choice was sound; a poor outcome does not automatically establish that either was unsound. Context shapes every decision: its objective, legitimate demand, available evidence, constraints, alternatives, uncertainty, timing, and consequences.
+
+**The Two Checks.** Apply the Two Checks proportionately to decisions affecting capacity:
+
+- **Justified?** Was the expenditure of capacity warranted?
+- **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand?
+
+A justified expenditure can still leave future capacity Not covered. Where evidence is insufficient, record Unknown and specify the next evidence request or precautionary action.
+
+**Investigation routes.** Choose the route that fits the question:
+
+- **Diagnose** (the Diagnostic Approach): investigate symptoms, test possible causes, and select a useful intervention.
+- **Establish:** gather the evidence needed to make an uncertain question decidable.
+- **Verify** (the Audit Approach): compare practice with a stated standard using traceable evidence.
+
+These routes can inform one another; they are not compulsory sequential stages.
+
+**The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not guarantee progression or sustainable results.
+
+Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
+
+The choices to intervene in these cases are described by the author. This record does not assess their Decision Process Quality or Decision Quality, and it reports outcomes (Decision Outcome Quality) as author-reported, not independently verified. A good reported outcome does not prove a sound choice, and the reverse.
+
+## Investigation and audit use
+
+Use these cases to generate questions, not to infer a cause or compliance finding from a reported success. **Diagnose** tests candidate explanations; **Establish** identifies missing records and discriminating evidence; **Verify** compares actual practice with a valid stated criterion. They are alternative inquiry routes that can inform one another.
+
+For an independent audit, record the criterion and its authority/version, scope and period, sample rationale, traceable evidence, finding, limitations, corrective action, owner, due date, and follow-up evidence. Keep the proposed cause separate from the exception. A case narrative alone cannot establish conformity. Seek appropriate authorization and protect confidential information before accessing operating records. No permission or research access is implied here.
+
+A practical review can conclude **conforms**, **does not conform**, **insufficient evidence**, or **not applicable**, with reasons. Use the [HEE Core audit route](https://github.com/titumozammel/human-energy-economics#diagnosis-and-audit-route-h) or the [HEEn verification guide](https://github.com/titumozammel/human-energy-enablement#verify-practice-against-a-standard) when planning the review. No historical audit results are added by this template.
 
 ---
 
@@ -697,7 +754,7 @@ The cases generate the following propositions for further investigation. They ar
 **Released capacity must be deliberately protected and redirected toward higher-value application.**
 
 ### Proposition 9
-**Stopping recurring organizational drain can create execution capacity without increasing headcount.** Headcount data are not recorded in these cases.
+**Stopping recurring organizational drain may create execution capacity without increasing headcount.** This is untested here: headcount data are not recorded in these cases.
 
 These propositions are presented as **propositions for further investigation, not as universal empirical claims**.
 
@@ -860,13 +917,13 @@ This distinction is deliberately maintained because the credibility of a develop
 
 # 20. CAPSTONE — WHAT CHANGED
 
-By 2025, a cumulative direction was visible across the operating work:
+The operating work described here was largely complete by 2025; this record was written and revised in 2026. By 2025, a cumulative direction was visible across that work:
 
 **Request Processing → Problem Elimination → System Improvement → Capability Development → Solution Creation → Organizational Enablement**
 
 The reported changes did not come from a single mechanism.
 
-It came from changing the relationship between recurring organizational demand and available capacity.
+The reported changes involved several approaches to recurring organizational demand. Their effects on available capacity require further evidence.
 
 This included:
 
@@ -1007,11 +1064,12 @@ The intended progression remains:
 
 The practical direction is:
 
-> **Stop the drain. Protect the capacity. Enable the capability. Apply it. Strengthen execution.**
+> **Stop unnecessary drain. Redesign legitimate demand. Protect the capacity. Enable the capability. Apply it. Strengthen execution.**
 
 That is the practical direction of **Human Energy Economics**.
 
 ---
+
 
 ## LICENSE
 
