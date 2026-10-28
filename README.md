@@ -105,11 +105,8 @@ The central question across the cases is:
 
 > **What organizational capacity is being consumed, why is it being consumed, and does it need to be consumed in this way?**
 
-The resulting practical logic can be expressed as:
+The resulting practical logic is set out in full in Section 3.
 
-**IDENTIFY DRAIN → DIAGNOSE CONDITION → SELECT INTERVENTION → STOP / REDUCE DRAIN → PRESERVE CAPACITY → ENABLE APPLICATION → STRENGTHEN EXECUTION**
-
-This became an important practical pathway through which HEE evolved.
 
 ---
 
@@ -139,7 +136,7 @@ This record applies a drain lens. The Core README adds two separate checks: whet
 
 ### The Decision Point
 
-*Quoted from the Core README’s The Decision Point (the canonical text). If the two differ, the Core README governs.*
+*Quoted from the Core README’s The Decision Point (the canonical text, without its illustrative example). If the two differ, the Core README governs.*
 
 Within HEE, consequential decisions along the pathway from capability to sustainable results should be explicit and reviewable. Evaluate them using four distinct definitions:
 
@@ -662,7 +659,7 @@ It is to distinguish between:
 
 The cases also reflect the **3C Strategic Lens**:
 
-**SOURCE → DEPENDENCY → CONSTRAINT**
+**SOURCE · DEPENDENCY · CONSTRAINT** (three parallel lenses, not a sequence)
 
 The purpose is to identify what generates recurring consumption, what dependency sustains it, and what condition prevents a better operating state.
 
@@ -1070,6 +1067,23 @@ That is the practical direction of **Human Energy Economics**.
 
 ---
 
+
+# 25. GO FURTHER
+
+Choose the destination that answers your next question. You need not read every repository.
+
+| Destination | Question it helps you pursue |
+| --- | --- |
+| [Author GitHub profile](https://github.com/titumozammel) | Where should I start across the author’s work? |
+| [Human Energy Economics](https://github.com/titumozammel/human-energy-economics) | How do I connect question, method, evidence, decision, and follow-up across the full capacity lens? |
+| [Operational Silence Framework](https://github.com/titumozammel/operational-silence-framework) | Does this recurring demand need to exist in this form? |
+| [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) | Where should I look: Source, Dependency, or Constraint? |
+| [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework) | Should recurring demand be removed, reduced, replaced, re-engineered, or retained? |
+| [Human Energy Enablement](https://github.com/titumozammel/human-energy-enablement) | Which conditions prevent existing capability from being applied? |
+| [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | What prevents reliable execution, and how do we fix it and make it hold? |
+| [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | What do the author-reported practice accounts illustrate, and what remains unverified? |
+
+---
 
 ## LICENSE
 
