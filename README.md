@@ -7,7 +7,7 @@
 *Originator of Human Energy Economics (HEE)*
 
 **Version 1.0 — Companion Practice Record to the Core README**  
-**Date: 28 October 2026**
+**Date: 31 October 2026**
 
 [HEE Core README](https://github.com/titumozammel/human-energy-economics) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [HEE Profile](https://github.com/titumozammel) · [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/mozammel-hee)
 
@@ -15,7 +15,17 @@
 
 > **Evidence status.** This is an **author-reported practice record** [H], not independent evidence and not controlled research. The author designed, implemented, and assessed these interventions and also originated HEE, so independent review is required before any claim is treated as tested. Where this edition does not hold a baseline, a period, or a record, it says **Not recorded**, which means **Unknown**. The author also offers a commercial diagnostic service, The Capacity Read (Ovinabo Advisory), disclosed in the Core README; it is not part of this record's evidence. Evidence labels follow the [HEE Core README](https://github.com/titumozammel/human-energy-economics): [E] researched, [A] adapted, [P] proposed and untested, [H] practice heuristic, [Illustrative] invented example.
 
-**Jump to:** [Find your question](#find-your-question) · [The Decision Point](#the-decision-point) · [At a glance](#at-a-glance) · [Case 1](#4-case-1--performance-wizard) · [Case 2](#5-case-2--rdp--computer-restart-self-service) · [Case 3](#6-case-3--quarterly-hardware-health-check) · [Case 4](#7-case-4--report-performance-and-information-richness) · [Case 5](#8-case-5--capability-enablement-internal-application-without-external-vendor-cost) · [Case 6](#9-case-6--solution-purchase-and-month-wise-stocking) · [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded) · [Limitations](#19-limitations-and-boundaries-of-the-record) · [Research status](#23-research-status) · [LICENSE](#license)
+**Jump to:** [HEE in four questions](#hee-in-four-questions) · [Find your question](#find-your-question) · [The Decision Point](#the-decision-point) · [At a glance](#at-a-glance) · [Case 1](#4-case-1--performance-wizard) · [Case 2](#5-case-2--rdp--computer-restart-self-service) · [Case 3](#6-case-3--quarterly-hardware-health-check) · [Case 4](#7-case-4--report-performance-and-information-richness) · [Case 5](#8-case-5--capability-enablement-internal-application-without-external-vendor-cost) · [Case 6](#9-case-6--solution-purchase-and-month-wise-stocking) · [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded) · [Limitations](#19-limitations-and-boundaries-of-the-record) · [Research status](#23-research-status) · [LICENSE](#license)
+
+## HEE in four questions
+
+**1. What is HEE?** Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a developing, practice-driven management approach to organizational capacity and sustainable execution. The AKG Record is the companion practice record: six selected operating cases from the application of HEE at Abul Khair Group.
+
+**2. What does HEE contribute?** HEE proposes a connected way to examine what limits execution, trace the supporting evidence, and make decisions and their consequences reviewable. It separates whether capacity expenditure was *Justified?* from whether legitimate next-cycle demand is *Covered?* This is a proposed contribution, not an established finding or a demonstrated advantage over existing approaches. The AKG Record adds author-reported cases that show how HEE questions were applied, and where the evidence is Not recorded.
+
+**3. How do I apply it to my problem?** *Context shapes the route.* Start with the observable problem and the decision you need to make, then choose and combine **Diagnose** (investigate possible causes), **Establish** (gather the evidence needed for a defensible determination), and **Verify** (compare practice with a stated standard). These are complementary routes, not compulsory sequential stages; reconsider the route as evidence or conditions change. No route guarantees the desired result. Use this document when you want to see HEE questions applied to real operating decisions.
+
+**4. How far can I trust it?** HEE is a provisional research and practice reference, not a validated diagnostic instrument. Established research informs it but does not validate its particular constructs, integration, or decision-support claims, and its proposed claims remain open to tests that could support, narrow, or reject them. This document is not independent evidence or controlled research: the author designed, implemented, and assessed these interventions and also originated HEE. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions and limits.
 
 ## Find your question
 
@@ -106,7 +116,6 @@ The central question across the cases is:
 > **What organizational capacity is being consumed, why is it being consumed, and does it need to be consumed in this way?**
 
 The resulting practical logic is set out in full in Section 3.
-
 
 ---
 
@@ -1066,7 +1075,6 @@ The practical direction is:
 That is the practical direction of **Human Energy Economics**.
 
 ---
-
 
 # 25. GO FURTHER
 
