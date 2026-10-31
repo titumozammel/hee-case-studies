@@ -6,10 +6,11 @@
 *Independent Management Researcher*  
 *Originator of Human Energy Economics (HEE)*
 
-**Version 1.0 — Companion Practice Record to the Core README**  
-**Date: 31 October 2026**
+**Version 1.0 — Companion practice record**  
+**Revision date: 31 October 2026**  
+**Status: author-reported practice record**
 
-[HEE Core README](https://github.com/titumozammel/human-energy-economics) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [HEE Profile](https://github.com/titumozammel) · [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/mozammel-hee)
+[HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [3C](https://github.com/titumozammel/3c-strategic-approach) · [5R Cascade](https://github.com/titumozammel/5r-cascade-framework) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [EES](https://github.com/titumozammel/execution-excellence-system)
 
 ---
 
@@ -189,9 +190,9 @@ A practical review can conclude **conforms**, **does not conform**, **insufficie
 
 ---
 
-# 4. CASE 1 — PERFORMANCE WIZARD
+## 4. CASE 1 — PERFORMANCE WIZARD
 
-## 4.1 Operating Condition
+### 4.1 Operating Condition
 
 Users experienced recurring application login-performance problems, desktop slowness, and Windows-related performance issues.
 
@@ -201,7 +202,7 @@ The conventional response would have been to continue receiving, diagnosing, and
 
 The intervention instead questioned whether the recurring demand could be addressed differently.
 
-## 4.2 Intervention
+### 4.2 Intervention
 
 A self-service **Performance Wizard** was developed.
 
@@ -213,7 +214,7 @@ The primary 5R logic was:
 
 Human-mediated recurring support was replaced by a controlled self-service mechanism.
 
-## 4.3 Observed Result
+### 4.3 Observed Result
 
 The recurring requests addressed by the wizard were removed from the normal IT support workload.
 
@@ -221,7 +222,7 @@ The intervention therefore did not simply improve the speed of request handling.
 
 It changed the demand structure itself.
 
-## 4.4 HEE Interpretation
+### 4.4 HEE Interpretation
 
 The case illustrates a central HEE principle:
 
@@ -233,9 +234,9 @@ Reduced support work may create an opportunity to release Human Energy and organ
 
 ---
 
-# 5. CASE 2 — RDP / COMPUTER RESTART SELF-SERVICE
+## 5. CASE 2 — RDP / COMPUTER RESTART SELF-SERVICE
 
-## 5.1 Operating Condition
+### 5.1 Operating Condition
 
 Computer restart requirements generated a recurring service chain:
 
@@ -249,7 +250,7 @@ The organizational service chain was not.
 
 Human Energy was being consumed by coordination, scheduling, intervention, and notification around a task that could be controlled differently.
 
-## 5.2 Intervention
+### 5.2 Intervention
 
 A self-service restart wizard was introduced.
 
@@ -259,7 +260,7 @@ The primary 5R logic was:
 
 > **REPLACE**
 
-## 5.3 Observed Result
+### 5.3 Observed Result
 
 The recurring restart calls were reported to have been reduced to **zero following the intervention** (author-reported; the observation period and records are Not recorded).
 
@@ -267,7 +268,7 @@ The important change was therefore not simply faster restart execution.
 
 The recurring human-mediated service chain was removed.
 
-## 5.4 HEE Interpretation
+### 5.4 HEE Interpretation
 
 This case illustrates that organizational drain can arise from the **service structure surrounding a task**, rather than from the technical complexity of the task itself.
 
@@ -277,9 +278,9 @@ The practical question became:
 
 ---
 
-# 6. CASE 3 — QUARTERLY HARDWARE HEALTH CHECK
+## 6. CASE 3 — QUARTERLY HARDWARE HEALTH CHECK
 
-## 6.1 Operating Condition
+### 6.1 Operating Condition
 
 Recurring hardware-related problems included:
 
@@ -295,7 +296,7 @@ The recurring pattern was predominantly reactive.
 
 Problems emerged, users reported them, IT responded, and the cycle repeated.
 
-## 6.2 Intervention
+### 6.2 Intervention
 
 A **quarterly preventive hardware health check** was introduced.
 
@@ -305,13 +306,13 @@ The primary 5R logic was:
 
 > **RE-ENGINEER**
 
-## 6.3 Observed Result
+### 6.3 Observed Result
 
 Related recurring calls were reported to have been reduced to **zero following the intervention** (author-reported; the observation period and records are Not recorded).
 
 The intervention therefore changed the conditions generating the demand rather than merely improving the response to incidents.
 
-## 6.4 HEE Interpretation
+### 6.4 HEE Interpretation
 
 The case illustrates the movement:
 
@@ -325,9 +326,9 @@ Prevention can preserve more capacity than repeated response when recurring prob
 
 ---
 
-# 7. CASE 4 — REPORT PERFORMANCE AND INFORMATION RICHNESS
+## 7. CASE 4 — REPORT PERFORMANCE AND INFORMATION RICHNESS
 
-## 7.1 Operating Condition
+### 7.1 Operating Condition
 
 A recurring report experienced two related problems.
 
@@ -347,7 +348,7 @@ It involved the relationship between:
 - contextual usefulness; and
 - system resource consumption.
 
-## 7.2 Intervention
+### 7.2 Intervention
 
 The report was re-engineered across these dimensions.
 
@@ -366,7 +367,7 @@ The underlying principle was:
 
 Rather than merely trying to make the existing report run faster, the report and its surrounding conditions were reconsidered.
 
-## 7.3 Observed Result
+### 7.3 Observed Result
 
 Report-generation time changed from approximately:
 
@@ -374,11 +375,11 @@ Report-generation time changed from approximately:
 
 CPU, RAM, and I/O utilization were brought below the applicable operating threshold, while information usefulness was improved.
 
-### Measurement Basis
+#### Measurement Basis
 
 The before-and-after figures represent observed report-generation time under the respective pre- and post-redesign configurations. They are presented as an **operating observation rather than a controlled benchmark study**.
 
-## 7.4 HEE Interpretation
+### 7.4 HEE Interpretation
 
 The significance of this case is not simply the speed improvement.
 
@@ -395,9 +396,9 @@ This illustrates a broader HEE question:
 
 ---
 
-# 8. CASE 5 — CAPABILITY ENABLEMENT: INTERNAL APPLICATION WITHOUT EXTERNAL VENDOR COST
+## 8. CASE 5 — CAPABILITY ENABLEMENT: INTERNAL APPLICATION WITHOUT EXTERNAL VENDOR COST
 
-## 8.1 Operating Condition
+### 8.1 Operating Condition
 
 Internal technical capability existed, or could be developed, for relevant infrastructure work.
 
@@ -413,7 +414,7 @@ This produced an important HEE distinction:
 
 Capability alone does not constitute available organizational capacity.
 
-## 8.2 Intervention
+### 8.2 Intervention
 
 The role of an Infrastructure Engineer was expanded beyond narrow technical execution.
 
@@ -431,7 +432,7 @@ The intervention therefore went beyond training.
 
 It addressed the organizational conditions required for capability to become application.
 
-## 8.3 Observed Result
+### 8.3 Observed Result
 
 Applicable infrastructure work was undertaken internally without external vendor cost. The vendor cost avoided and the internal time spent are **Not recorded** in this edition, so the size of the saving is Unknown.
 
@@ -447,7 +448,7 @@ rather than:
 
 **Capability → Dependency → External Consumption**
 
-## 8.4 HEE Interpretation
+### 8.4 HEE Interpretation
 
 This case became particularly important to the development of **Human Energy Enablement (HEEn)**.
 
@@ -457,9 +458,9 @@ The constraint may lie in organizational conditions rather than in the capabilit
 
 ---
 
-# 9. CASE 6 — SOLUTION PURCHASE AND MONTH-WISE STOCKING
+## 9. CASE 6 — SOLUTION PURCHASE AND MONTH-WISE STOCKING
 
-## 9.1 Operating Condition
+### 9.1 Operating Condition
 
 Small devices and accessories were repeatedly required in predictable patterns.
 
@@ -477,7 +478,7 @@ The underlying demand was legitimate.
 
 The problem was the way predictable demand was being processed.
 
-## 9.2 Intervention
+### 9.2 Intervention
 
 The procurement approach was redesigned through:
 
@@ -492,7 +493,7 @@ The intervention did not seek to eliminate legitimate demand.
 
 It redesigned how that demand was satisfied.
 
-## 9.3 Observed Result
+### 9.3 Observed Result
 
 The redesigned approach produced:
 
@@ -501,7 +502,7 @@ The redesigned approach produced:
 
 The organization continued to satisfy legitimate requirements while reducing the recurring process consumption associated with satisfying them individually.
 
-## 9.4 HEE Interpretation
+### 9.4 HEE Interpretation
 
 This case illustrates why **RETAIN** is an essential part of the 5R Cascade.
 
@@ -521,7 +522,7 @@ This distinction prevents demand reduction from becoming an objective in itself.
 
 ---
 
-# 10. CONSOLIDATED CASE VIEW AND EVIDENCE RECORDED
+## 10. CONSOLIDATED CASE VIEW AND EVIDENCE RECORDED
 
 | Case | Baseline and period | Reported change | Where released capacity went | Justified? | Covered? |
 |---|---|---|---|---|---|
@@ -534,7 +535,7 @@ This distinction prevents demand reduction from becoming an objective in itself.
 
 **¹ Aggregate recurring demand across the relevant problem categories. The first three cases together represented approximately 50 recurring requests or calls per day across three categories.** These figures do not represent demand handled by a single officer.
 
-### Provenance of each case
+#### Provenance of each case
 
 The Core README asks that each entry record its selection rationale, dates, data source, and whether it is observed, reported, estimated, illustrative, or independently verified. This edition holds the following; everything else is Not recorded.
 
@@ -551,7 +552,7 @@ The Core README asks that each entry record its selection rationale, dates, data
 
 ---
 
-# 11. WHAT THE CASES REVEAL ABOUT ORGANIZATIONAL DRAIN
+## 11. WHAT THE CASES REVEAL ABOUT ORGANIZATIONAL DRAIN
 
 The cases suggest that organizational drain can arise through many mechanisms.
 
@@ -587,11 +588,11 @@ This is one of the central practical observations underlying HEE.
 
 ---
 
-# 12. HEE ARCHITECTURE OBSERVED IN PRACTICE
+## 12. HEE ARCHITECTURE OBSERVED IN PRACTICE
 
 The cases provide practical illustrations of several HEE constructs.
 
-## 12.1 Human Energy
+### 12.1 Human Energy
 
 Human Energy is consumed through:
 
@@ -609,7 +610,7 @@ Human Energy is consumed through:
 
 The relevant capacity question is not merely how much work exists, but how much Human Energy is consumed to sustain it.
 
-## 12.2 Capability
+### 12.2 Capability
 
 Capability represents what people or organizations know and can potentially do.
 
@@ -619,13 +620,13 @@ But:
 
 Capability does not automatically become available organizational capacity.
 
-## 12.3 Capacity
+### 12.3 Capacity
 
 Capacity is the part of capability available in time, attention, and energy. Enablement determines whether it can be reached, and application puts it to work.
 
 This distinction is particularly visible in the capability-enablement case.
 
-## 12.4 Connection
+### 12.4 Connection
 
 Connection concerns the relationships among:
 
@@ -640,7 +641,7 @@ Disconnects create additional consumption.
 
 A technically simple task can therefore generate substantial organizational drain if the surrounding connections are poorly designed.
 
-## 12.5 Enablement
+### 12.5 Enablement
 
 Enablement concerns the organizational conditions that allow Human Energy and capability to become effective application.
 
@@ -648,7 +649,7 @@ Where capability exists but application is constrained, the issue is not necessa
 
 It may be an enablement gap.
 
-## 12.6 Demand
+### 12.6 Demand
 
 Demand is not inherently negative.
 
@@ -664,7 +665,7 @@ It is to distinguish between:
 - demand whose conditions should be re-engineered; and
 - demand that should legitimately remain.
 
-## 12.7 3C Strategic Lens
+### 12.7 3C Strategic Lens
 
 The cases also reflect the **3C Strategic Lens**:
 
@@ -672,15 +673,15 @@ The cases also reflect the **3C Strategic Lens**:
 
 The purpose is to identify what generates recurring consumption, what dependency sustains it, and what condition prevents a better operating state.
 
-## 12.8 5R Cascade
+### 12.8 5R Cascade
 
 The intervention logic can then be applied:
 
 **REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
 
-The cases suggest that different operating conditions may call for different interventions.
+This is an order of consideration for a recurring demand, not a ranking, a first-feasible rule, or a mandatory sequence; Retain may be appropriate at any point. The cases suggest that different operating conditions may call for different interventions.
 
-## 12.9 Human Energy Enablement
+### 12.9 Human Energy Enablement
 
 Where capability exists but cannot be effectively applied, **HEEn** becomes relevant.
 
@@ -688,7 +689,7 @@ Its practical logic is:
 
 **Capability → Application → Execution**
 
-## 12.10 Execution Excellence
+### 12.10 Execution Excellence
 
 Preserved capacity ultimately needs to be connected to organizational priorities.
 
@@ -698,7 +699,7 @@ Preserving capacity without directing it toward valuable application does not au
 
 ---
 
-# 13. FROM DEMAND REDUCTION TO CAPACITY PRESERVATION
+## 13. FROM DEMAND REDUCTION TO CAPACITY PRESERVATION
 
 Demand reduction is not the final objective.
 
@@ -731,42 +732,42 @@ The cases in this record do not document where released capacity went or who own
 
 ---
 
-# 14. PROPOSITIONS EMERGING FROM THE AKG CASES
+## 14. PROPOSITIONS EMERGING FROM THE AKG CASES
 
 The cases generate the following propositions for further investigation. They are numbered separately from the Core README's P-series (P1–P16), are hypothesis-generating, and are not evidence for any Core README proposition.
 
-### Proposition 1
+#### Proposition 1
 **Operational demand can function as a capacity drain when it repeatedly consumes Human Energy without sufficient corresponding value.**
 
-### Proposition 2
+#### Proposition 2
 **The best intervention is not necessarily process improvement; in some conditions, removal or replacement may preserve more capacity.** Whether it is also cheaper requires a cost analysis this record does not contain.
 
-### Proposition 3
+#### Proposition 3
 **Prevention can create greater capacity than repeated response when recurring problems originate from addressable operating conditions.**
 
-### Proposition 4
+#### Proposition 4
 **Self-service can convert recurring human consumption into controlled user enablement.**
 
-### Proposition 5
+#### Proposition 5
 **Capability does not automatically become organizational capacity.**
 
-### Proposition 6
+#### Proposition 6
 **Capability becomes organizational capacity when organizational conditions allow effective application.**
 
-### Proposition 7
+#### Proposition 7
 **Predictable recurring demand should not necessarily be managed as unpredictable demand.**
 
-### Proposition 8
+#### Proposition 8
 **Released capacity must be deliberately protected and redirected toward higher-value application.**
 
-### Proposition 9
+#### Proposition 9
 **Stopping recurring organizational drain may create execution capacity without increasing headcount.** This is untested here: headcount data are not recorded in these cases.
 
 These propositions are presented as **propositions for further investigation, not as universal empirical claims**.
 
 ---
 
-# 15. EVOLUTION OF THE OPERATING LOGIC
+## 15. EVOLUTION OF THE OPERATING LOGIC
 
 Across the cases, the operating logic evolved through several stages:
 
@@ -790,39 +791,41 @@ This represents a shift from responding to demand toward changing the conditions
 
 ---
 
-# 16. COMMON LOGIC ACROSS THE CASES
+## 16. COMMON LOGIC ACROSS THE CASES
 
 Although the six cases differ in subject matter, they share a common operating sequence.
 
-### Step 1 — Identify Drain
+#### Step 1 — Identify Drain
 
 Determine where recurring Human Energy and organizational capacity are being consumed.
 
-### Step 2 — Diagnose Source
+#### Step 2 — Diagnose Source
 
 Understand the condition generating or sustaining the demand.
 
-### Step 3 — Select Intervention
+#### Step 3 — Select Intervention
 
 Apply the appropriate intervention:
 
 **REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
 
-### Step 4 — Stop or Reduce Drain
+#### Step 4 — Stop or Reduce Drain
 
 Change the condition so that unnecessary consumption decreases or disappears.
 
-### Step 5 — Preserve Capacity
+#### Step 5 — Preserve Capacity
 
 Ensure that the Human Energy and organizational capacity no longer consumed by the previous activity remain available.
 
-### Step 6 — Enable Application
+#### Step 6 — Enable Application
 
 Create the conditions for preserved capacity and existing capability to become useful application.
 
-### Step 7 — Strengthen Execution
+#### Step 7 — Strengthen Execution
 
 Direct the resulting capacity toward higher-value organizational priorities.
+
+This common logic is a retrospective reading of the six cases, not a compulsory procedure; the steps may be taken in a different order, combined, or revisited as evidence changes, and context shapes the route.
 
 The logic therefore goes beyond workload reduction.
 
@@ -832,7 +835,7 @@ It is:
 
 ---
 
-# 17. CENTRAL LESSON
+## 17. CENTRAL LESSON
 
 The conventional management question is often:
 
@@ -854,7 +857,7 @@ The central practical lesson is:
 
 ---
 
-# 18. FROM OPERATING RECORD TO RESEARCH PROGRAM
+## 18. FROM OPERATING RECORD TO RESEARCH PROGRAM
 
 The AKG record represents operating evidence and observation that contributed to the development of HEE.
 
@@ -891,7 +894,7 @@ The broader progression is:
 
 ---
 
-# 19. LIMITATIONS AND BOUNDARIES OF THE RECORD
+## 19. LIMITATIONS AND BOUNDARIES OF THE RECORD
 
 This record has important limitations.
 
@@ -921,7 +924,7 @@ This distinction is deliberately maintained because the credibility of a develop
 
 ---
 
-# 20. CAPSTONE — WHAT CHANGED
+## 20. CAPSTONE — WHAT CHANGED
 
 The operating work described here was largely complete by 2025; this record was written and revised in 2026. By 2025, a cumulative direction was visible across that work:
 
@@ -951,7 +954,7 @@ That was a significant change in operating perspective.
 
 ---
 
-# 21. CENTRAL HEE INSIGHT
+## 21. CENTRAL HEE INSIGHT
 
 > **Organizations can lose capacity without losing people.**
 
@@ -987,9 +990,11 @@ The resulting architecture is:
 
 **HEE → OSF → 3C + 5R → HEEn → EES → Sustainable Execution Capacity → Sustainable Business Value**
 
+This is an architecture map showing how the frameworks relate, not a compulsory sequence. Each framework can be used directly when its question arises, and the final steps are an intended orientation, not an established causal chain.
+
 ---
 
-# 22. CONCLUSION
+## 22. CONCLUSION
 
 The AKG cases suggest that recurring organizational demand can consume Human Energy and organizational capacity long after the original reason for that consumption has ceased to justify it.
 
@@ -1044,7 +1049,7 @@ The practical operating lesson is therefore:
 
 ---
 
-# 23. RESEARCH STATUS
+## 23. RESEARCH STATUS
 
 This document is the **Operating Record of selected applications and observations associated with the development of Human Energy Economics**.
 
@@ -1064,7 +1069,7 @@ The intended progression remains:
 
 ---
 
-# 24. CORE TAKEAWAY
+## 24. CORE TAKEAWAY
 
 > **Organizations do not always need more people to increase capacity. Sometimes they need to stop consuming the capacity they already have.**
 
@@ -1076,7 +1081,7 @@ That is the practical direction of **Human Energy Economics**.
 
 ---
 
-# 25. GO FURTHER
+## 25. GO FURTHER
 
 Choose the destination that answers your next question. You need not read every repository.
 
