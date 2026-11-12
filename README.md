@@ -14,19 +14,43 @@
 
 ---
 
-> **Evidence status.** This is an **author-reported practice record** [H], not independent evidence and not controlled research. The author designed, implemented, and assessed these interventions and also originated HEE, so independent review is required before any claim is treated as tested. Where this edition does not hold a baseline, a period, or a record, it says **Not recorded**, which means **Unknown**. The author also offers a commercial diagnostic service, The Capacity Read (Ovinabo Advisory), disclosed in the Core README; it is not part of this record's evidence. Evidence labels follow the [HEE Core README](https://github.com/titumozammel/human-energy-economics): [E] researched, [A] adapted, [P] proposed and untested, [H] practice heuristic, [Illustrative] invented example.
+> **Evidence status.** This is an **author-reported practice record** [H], not independent evidence and not controlled research. The author designed, implemented, and assessed these interventions and also originated HEE, so independent review is required before any claim is treated as tested. Where this edition does not hold a baseline, a period, or a record, it says **Not recorded**, which means this edition contains no record. Where the missing information prevents a defensible judgment, that judgment remains **Unknown**. Evidence labels follow the [HEE Core README](https://github.com/titumozammel/human-energy-economics): [E] researched, [A] adapted, [P] proposed and untested, [H] practice heuristic, [Illustrative] invented example. The interventions were reported to reduce or change recurring work. Whether they released usable capacity, and how that capacity was then applied, remains unknown in this record.
 
-**Jump to:** [HEE in four questions](#hee-in-four-questions) · [Find your question](#find-your-question) · [The Decision Point](#the-decision-point) · [At a glance](#at-a-glance) · [Case 1](#4-case-1--performance-wizard) · [Case 2](#5-case-2--rdp--computer-restart-self-service) · [Case 3](#6-case-3--quarterly-hardware-health-check) · [Case 4](#7-case-4--report-performance-and-information-richness) · [Case 5](#8-case-5--capability-enablement-internal-application-without-external-vendor-cost) · [Case 6](#9-case-6--solution-purchase-and-month-wise-stocking) · [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded) · [Limitations](#19-limitations-and-boundaries-of-the-record) · [Research status](#23-research-status) · [LICENSE](#license)
+> **Approach.** HEE does not treat management as a formula that fits every situation. It is a practice-derived way to organize inquiry. Each problem is investigated on its own terms, and practitioners use evidence and judgment to select, adapt, and review what fits the context. HEE supports evidence-informed judgment; it does not replace it.
+>
+> HEE draws on the author’s experience, knowledge, and wisdom, including applications and observed results reported by the author. Its broader claims about reliability, effectiveness, and added value remain open to independent testing, and the research sections state what would narrow or retire them. Readers are invited to test HEE in their own setting and, if they do not see the result they expect, to write to the author (see the author’s note).
+
+**Jump to:** [Reader’s guide](#readers-guide) · [HEE in four questions](#hee-in-four-questions) · [Find your question](#find-your-question) · [The Decision Point](#the-decision-point) · [At a glance](#at-a-glance) · [Case 1](#4-case-1--performance-wizard) · [Case 2](#5-case-2--rdp--computer-restart-self-service) · [Case 3](#6-case-3--quarterly-hardware-health-check) · [Case 4](#7-case-4--report-performance-and-information-richness) · [Case 5](#8-case-5--capability-enablement-internal-application-without-external-vendor-cost) · [Case 6](#9-case-6--solution-purchase-and-month-wise-stocking) · [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded) · [Limitations](#19-limitations-and-boundaries-of-the-record) · [Research status](#23-research-status) · [LICENSE](#license)
+
+## Reader's guide
+
+These are real operating cases from the author’s practice, reported by the author and not independently verified. This guide shows which parts to read for your role.
+
+| Audience | What you can take away | Start here | First useful step | Suggested time |
+| --- | --- | --- | --- | --- |
+| **Board and audit committee** | How six operating cases are recorded, what is measured versus estimated, and what the record cannot show | [At a glance](#at-a-glance), [10. CONSOLIDATED CASE VIEW AND EVIDENCE RECORDED](#10-consolidated-case-view-and-evidence-recorded). Then skim: [19. LIMITATIONS AND BOUNDARIES OF THE RECORD](#19-limitations-and-boundaries-of-the-record) | Ask whether your own organization could keep a comparable record | 15 min |
+| **CEO, C-suite, and owners** | What changed in six real operating situations, in plain operating terms | [At a glance](#at-a-glance), [17. CENTRAL LESSON](#17-central-lesson). Then skim: [24. CORE TAKEAWAY](#24-core-takeaway) | Pick the case closest to your situation and ask what its starting condition was | 20 min |
+| **Operations managers and team leaders** | Concrete before-and-after examples of recurring demand, enablement, and reporting | [4. CASE 1 — PERFORMANCE WIZARD](#4-case-1--performance-wizard), [7. CASE 4 — REPORT PERFORMANCE AND INFORMATION RICHNESS](#7-case-4--report-performance-and-information-richness). Then skim: [16. COMMON LOGIC ACROSS THE CASES](#16-common-logic-across-the-cases) | Compare one case with a recurring demand in your own team | 30 min |
+| **Practitioners and consultants** | How the Decision Point and the HEE architecture appear in practice | [The Decision Point](#the-decision-point), [12. HEE ARCHITECTURE OBSERVED IN PRACTICE](#12-hee-architecture-observed-in-practice). Then skim: [13. FROM DEMAND REDUCTION TO CAPACITY PRESERVATION](#13-from-demand-reduction-to-capacity-preservation) | Write the starting condition of your own case in the same four parts (condition, intervention, observed result, interpretation) | 40 min |
+| **Academics** | An author-reported practice record and the propositions it suggests | [2. WHY THESE CASES ARE PRESENTED](#2-why-these-cases-are-presented), [14. PROPOSITIONS EMERGING FROM THE AKG CASES](#14-propositions-emerging-from-the-akg-cases). Then skim: [19. LIMITATIONS AND BOUNDARIES OF THE RECORD](#19-limitations-and-boundaries-of-the-record) | Note what the record can motivate and what it cannot establish | 30 min |
+| **Researchers** | What would have to be tested, and by whom, before any case-based claim stands | [18. FROM OPERATING RECORD TO RESEARCH PROGRAM](#18-from-operating-record-to-research-program), [23. RESEARCH STATUS](#23-research-status). Then skim: [10. CONSOLIDATED CASE VIEW AND EVIDENCE RECORDED](#10-consolidated-case-view-and-evidence-recorded) | Pick one case and list what an independent test would require | 30 min |
+| **New to HEE** | What HEE looks like when applied, told as short cases | [HEE in four questions](#hee-in-four-questions), [At a glance](#at-a-glance). Then skim: [4. CASE 1 — PERFORMANCE WIZARD](#4-case-1--performance-wizard) | Read one case end to end | 10 min |
+
+*Times are suggested allocations, not measured; reading speeds differ. Take-aways describe what a reader can use, not an outcome this document can assure. The first useful step is a suggestion; the decision stays yours.*
+
+**Only five minutes?** Read [At a glance](#at-a-glance), then one case that resembles your situation.
+
+**You can defer on a first reading:** the architecture, propositions, and research-program sections, unless you are a practitioner, academic, or researcher. Read the evidence-status summary before applying the guidance.
 
 ## HEE in four questions
 
-**1. What is HEE?** Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a developing, practice-driven management approach to organizational capacity and sustainable execution. The AKG Record is the companion practice record: six selected operating cases from the application of HEE at Abul Khair Group.
+**1. What is HEE?** Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a practice-driven management approach to organizational capacity and sustainable execution. The AKG Record is the companion practice record: six selected operating cases from the application of HEE at Abul Khair Group.
 
 **2. What does HEE contribute?** HEE proposes a connected way to examine what limits execution, trace the supporting evidence, and make decisions and their consequences reviewable. It separates whether capacity expenditure was *Justified?* from whether legitimate next-cycle demand is *Covered?* This is a proposed contribution, not an established finding or a demonstrated advantage over existing approaches. The AKG Record adds author-reported cases that show how HEE questions were applied, and where the evidence is Not recorded.
 
-**3. How do I apply it to my problem?** *Context shapes the route.* Start with the observable problem and the decision you need to make, then choose and combine **Diagnose** (investigate possible causes), **Establish** (gather the evidence needed for a defensible determination), and **Verify** (compare practice with a stated standard). These are complementary routes, not compulsory sequential stages; reconsider the route as evidence or conditions change. No route guarantees the desired result. Use this document when you want to see HEE questions applied to real operating decisions.
+**3. How do I apply it to my problem?** *Context shapes the route.* Start with the observable problem and the decision you need to make, then choose and combine **Diagnose** (investigate possible causes), **Establish** (gather the evidence needed for a defensible determination), and **Verify** (compare practice with a stated standard). These are complementary routes, not compulsory sequential stages; reconsider the route as evidence or conditions change. Every route depends on context and evidence. Use this document when you want to see HEE questions applied to real operating decisions.
 
-**4. How far can I trust it?** HEE is a provisional research and practice reference, not a validated diagnostic instrument. Established research informs it but does not validate its particular constructs, integration, or decision-support claims, and its proposed claims remain open to tests that could support, narrow, or reject them. This document is not independent evidence or controlled research: the author designed, implemented, and assessed these interventions and also originated HEE. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions and limits.
+**4. How should I use HEE?** Use HEE as a practical way to ask better questions and review decisions with your own evidence and judgment. It supports inquiry; it does not replace specialist judgment. Read these cases as the author’s practice record: the author designed, implemented, and assessed the interventions and also originated HEE, so they are not independent evidence or controlled research. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions, evidence, and limits.
 
 ## Find your question
 
@@ -41,15 +65,17 @@
 | Does this record demonstrate compliance with a standard? | Select an audit route | Auditor, governance lead | [Investigation and audit use](#investigation-and-audit-use) | Whether a separate criterion-based audit is needed |
 | What does the record contribute to research? | Separate hypothesis origins from validation | Academic, researcher | [Propositions](#14-propositions-emerging-from-the-akg-cases); [limitations](#19-limitations-and-boundaries-of-the-record) | Which claim needs independent testing |
 
+*Not sure where to begin? [Find your situation](https://github.com/titumozammel/human-energy-economics#find-your-situation) lists six situations and the tool for each.*
+
 ## At a glance
 
-| Case | Recurring condition | Intervention | Disposition or enablement logic | Reported result |
+| Case | Recurring condition | Intervention | Disposition (or enablement) | Reported result |
 |---|---|---|---|---|
 | **Performance Wizard** | Repeated application and desktop support requests | Self-service wizard | **REPLACE** | Recurring requests removed from the normal workload |
 | **RDP / Restart** | Human-mediated restart chain | Self-service restart | **REPLACE** | Calls reduced to zero |
 | **Hardware Health** | Recurring preventable incidents | Quarterly health checks | **RE-ENGINEER** | Related calls reduced to zero |
-| **Report** | Slow, insufficiently contextual report | Report and system redesign | **RE-ENGINEER** | About 9 minutes to about 9 seconds |
-| **Capability** | Internal capability constrained by dependency | Role expansion and enablement | **ENABLE** | Applicable work done internally without external vendor cost |
+| **Report** | Slow, insufficiently contextual report | Report and system redesign | **RE-ENGINEER** | About 9 minutes to about 9 seconds (operating observation, not a benchmark) |
+| **Capability** | Internal capability constrained by dependency | Role expansion and enablement | **ENABLE** | Applicable work done internally without external vendor cost (size of the saving Not recorded) |
 | **Procurement** | Predictable recurring requirements | Solution purchasing and month-wise stocking | **RE-ENGINEER + RETAIN** (a retain-and-redesign case, not drain removal) | Faster fulfillment, fewer process man-hours |
 
 All results are author-reported. Case 6 is a retain-and-redesign case, not a drain-removal case. See [Evidence recorded](#10-consolidated-case-view-and-evidence-recorded) for what each case does and does not document.
@@ -128,9 +154,9 @@ A recurring operational pattern can be represented as:
 
 **Recurring Operational Demand → Human Energy Consumption → Available Capacity Reduced → Higher-Value Application Constrained**
 
-The reverse logic is:
+The proposed reverse logic (set out in Section 16; its later steps are follow-up objectives that this record does not assess) is:
 
-**Identify Drain → Diagnose Condition → Select Intervention → Stop / Reduce / Replace / Re-engineer / Retain → Preserve Capacity → Enable Application → Strengthen Execution**
+**Identify Recurring Consumption → Diagnose Condition → Select a Disposition → Change the Condition → Preserve Capacity → Enable Application → Strengthen Execution**
 
 This distinction is important.
 
@@ -174,7 +200,7 @@ A justified expenditure can still leave future capacity Not covered. Where evide
 
 These routes can inform one another; they are not compulsory sequential stages.
 
-**The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not guarantee progression or sustainable results.
+**The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not establish progression or sustainable results.
 
 Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
 
@@ -373,7 +399,7 @@ Report-generation time changed from approximately:
 
 > **9 minutes → 9 seconds**
 
-CPU, RAM, and I/O utilization were brought below the applicable operating threshold, while information usefulness was improved.
+CPU, RAM, and I/O utilization were brought below the applicable operating threshold (the threshold’s value is Not recorded in this edition), while information usefulness was improved.
 
 #### Measurement Basis
 
@@ -524,16 +550,18 @@ This distinction prevents demand reduction from becoming an objective in itself.
 
 ## 10. CONSOLIDATED CASE VIEW AND EVIDENCE RECORDED
 
+The Justified? entries show only what the record supports for each case: the author’s judgment where one was recorded, Unknown where the judgment awaits assessment, and Not assessed where none was made. The evidence available and the assessment status differ by row; the criteria for justification remain the same.
+
 | Case | Baseline and period | Reported change | Where released capacity went | Justified? | Covered? |
 |---|---|---|---|---|---|
 | **Performance Wizard**¹ | About 15 requests per day; period Not recorded | Recurring requests removed from the normal workload | Not recorded (Unknown) | Author judgment: recurring demand not warranted in this form | Not assessed |
 | **RDP / Restart**¹ | About 20 calls per day; period Not recorded | Reduced to zero | Not recorded (Unknown) | Author judgment: the multi-step chain not warranted | Not assessed |
-| **Hardware Health**¹ | About 15 calls per day; period Not recorded | Related calls reduced to zero | Not recorded (Unknown) | Author judgment: preventable incidents | Not assessed |
+| **Hardware Health**¹ | About 15 calls per day; period Not recorded | Related calls reduced to zero | Not recorded (Unknown) | Unknown pending assessment of necessity, proportionality, and alternatives (separate observation, author judgment: the incidents were preventable) | Not assessed |
 | **Report** | About 9 minutes; operating observation, not a benchmark | About 9 seconds; utilization below threshold (threshold Not recorded) | Not recorded (Unknown) | Not assessed | Not assessed |
 | **Capability** | Vendor cost and internal time Not recorded | Applicable work done internally without external vendor cost | Not recorded (Unknown) | Not assessed | Not assessed |
-| **Procurement** | Not recorded | Faster fulfillment, fewer process man-hours (no figures) | Not recorded (Unknown) | Yes, demand legitimate (author judgment) | Not assessed |
+| **Procurement** | Not recorded | Faster fulfillment, fewer process man-hours (no figures) | Not recorded (Unknown) | Purpose legitimate (author judgment); expenditure justified: Unknown unless assessed | Not assessed |
 
-**¹ Aggregate recurring demand across the relevant problem categories. The first three cases together represented approximately 50 recurring requests or calls per day across three categories.** These figures do not represent demand handled by a single officer.
+**¹ Recurring demand estimates for the three problem categories, reported separately: about 15 requests per day (Performance Wizard), about 20 calls per day (RDP / Restart), and about 15 calls per day (Hardware Health).** The periods are Not recorded, the categories were counted differently, and no combined daily total is given.
 
 #### Provenance of each case
 
@@ -548,7 +576,7 @@ The Core README asks that each entry record its selection rationale, dates, data
 | **Capability** | As above | Not recorded | Not recorded | Author-reported; not independently verified |
 | **Procurement** | As above | Not recorded | Not recorded | Author-reported; not independently verified |
 
-**How to read these tables.** *Not recorded* means this edition does not hold the figure, which makes it **Unknown**, not zero. *Justified?* and *Covered?* are the Core README's two checks; the Justified? entries are the author's judgment with no independent check. Filling the Not recorded cells from AKG records, where they exist, would turn these observations into stronger evidence.
+**How to read these tables.** *Not recorded* means this edition contains no record of the figure; it is not zero. Where the missing information prevents a defensible judgment, that judgment remains **Unknown**. *Justified?* and *Covered?* are the Core README's two checks; the Justified? entries are the author's judgment with no independent check. Filling the Not recorded cells from AKG records, where they exist, would turn these observations into stronger evidence.
 
 ---
 
@@ -675,11 +703,11 @@ The purpose is to identify what generates recurring consumption, what dependency
 
 ### 12.8 5R Cascade
 
-The intervention logic can then be applied:
+The 5R dispositions can then be compared:
 
-**REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
+**Remove, Reduce, Replace, Re-engineer, Retain**
 
-This is an order of consideration for a recurring demand, not a ranking, a first-feasible rule, or a mandatory sequence; Retain may be appropriate at any point. The cases suggest that different operating conditions may call for different interventions.
+This is an order of consideration for a recurring demand, not a ranking, a first-feasible rule, or a mandatory sequence; Retain may be appropriate at any point. The cases suggest that different operating conditions may call for different dispositions.
 
 ### 12.9 Human Energy Enablement
 
@@ -713,7 +741,7 @@ Stopping the drain therefore creates an opportunity.
 
 It does not automatically create value.
 
-The preserved capacity must be protected and deliberately redirected toward higher-value application, such as:
+Where capacity is released, it should be protected and deliberately redirected toward higher-value application. This record does not assess whether that happened. Examples of such application include:
 
 - capability development;
 - innovation;
@@ -769,11 +797,7 @@ These propositions are presented as **propositions for further investigation, no
 
 ## 15. EVOLUTION OF THE OPERATING LOGIC
 
-Across the cases, the operating logic evolved through several stages:
-
-**Request Processing → Problem Elimination → System Improvement → Capability Development → Solution Creation → Organizational Enablement**
-
-The shift was significant.
+Across the cases, the operating logic evolved through several stages, which Section 20 sets out. The shift was significant.
 
 The function moved progressively from asking:
 
@@ -793,29 +817,27 @@ This represents a shift from responding to demand toward changing the conditions
 
 ## 16. COMMON LOGIC ACROSS THE CASES
 
-Although the six cases differ in subject matter, they share a common operating sequence.
+The author’s retrospective reading identifies a recurring pattern across several cases, rather than one sequence demonstrated by all six. Steps 1 to 4 describe inquiry and changes to recurring demand where applicable; capability enablement and retention of legitimate demand need not involve drain reduction. Steps 5 to 7 describe follow-up objectives whose achievement this edition does not establish.
 
 #### Step 1 — Identify Drain
 
-Determine where recurring Human Energy and organizational capacity are being consumed.
+Identify recurring consumption of Human Energy and organizational capacity; assess whether any portion constitutes drain.
 
 #### Step 2 — Diagnose Source
 
 Understand the condition generating or sustaining the demand.
 
-#### Step 3 — Select Intervention
+#### Step 3 — Select a Disposition
 
-Apply the appropriate intervention:
-
-**REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
+Select the disposition the evidence supports: Remove, Reduce, Replace, Re-engineer, or Retain, singly or in combination. These are dispositions for recurring demand, distinct from the Core README’s interventions (Protect, Recover, Develop, Connect, Enable).
 
 #### Step 4 — Stop or Reduce Drain
 
-Change the condition so that unnecessary consumption decreases or disappears.
+Change the condition that generates or sustains the demand, so that unnecessary consumption decreases or disappears where the case involves drain. Where the case concerns capability enablement or retention of legitimate demand, the change is to enable application or to redesign how the demand is met, not to reduce drain.
 
 #### Step 5 — Preserve Capacity
 
-Ensure that the Human Energy and organizational capacity no longer consumed by the previous activity remain available.
+Confirm that the Human Energy and organizational capacity no longer consumed by the previous activity remain available.
 
 #### Step 6 — Enable Application
 
@@ -825,9 +847,9 @@ Create the conditions for preserved capacity and existing capability to become u
 
 Direct the resulting capacity toward higher-value organizational priorities.
 
-This common logic is a retrospective reading of the six cases, not a compulsory procedure; the steps may be taken in a different order, combined, or revisited as evidence changes, and context shapes the route.
+This common logic is a retrospective reading of the cases to which it applies, not a compulsory procedure; the steps may be taken in a different order, combined, or revisited as evidence changes, and context shapes the route.
 
-The logic therefore goes beyond workload reduction.
+The logic therefore goes beyond workload reduction. The pathway below is proposed; the cases do not document its later steps.
 
 It is:
 
@@ -920,7 +942,7 @@ They constitute:
 
 > **author-reported operating evidence and proposition-generating observations, not universal proof.**
 
-This distinction is deliberately maintained because the credibility of a developing theory depends not only on what it claims, but also on what it refuses to claim.
+This distinction is deliberately maintained because the credibility of a theory depends not only on what it claims, but also on what it refuses to claim.
 
 ---
 
@@ -980,7 +1002,7 @@ The HEE question is therefore:
 
 The 5R Cascade provides a disposition logic:
 
-**REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
+**Remove, Reduce, Replace, Re-engineer, Retain** (an order of consideration, not a sequence)
 
 Where capability exists but application is constrained, **HEEn** addresses the organizational conditions preventing effective application.
 
@@ -1017,9 +1039,7 @@ It is:
 
 > **Should the organization still be doing this work in this form?**
 
-The practical HEE logic is:
-
-**IDENTIFY DRAIN → DIAGNOSE CONDITION → SELECT INTERVENTION → STOP / REDUCE DRAIN → PRESERVE CAPACITY → ENABLE APPLICATION → STRENGTHEN EXECUTION**
+The proposed practical HEE logic is the pathway set out in Section 16 (identify recurring consumption, diagnose the condition, select a disposition, change the condition, then the follow-up steps of preserving capacity, enabling application, and strengthening execution). Its later steps are not assessed in this record.
 
 The objective is not simply less work.
 
@@ -1056,7 +1076,7 @@ This document is the **Operating Record of selected applications and observation
 Its purposes are to:
 
 1. document selected operating cases;
-2. illustrate how conceptual ideas translated into practical interventions;
+2. illustrate the practical interventions from which HEE ideas were developed;
 3. identify recurring patterns;
 4. generate propositions and research questions; and
 5. provide a foundation for further empirical investigation.
@@ -1095,6 +1115,8 @@ Choose the destination that answers your next question. You need not read every 
 | [Human Energy Enablement](https://github.com/titumozammel/human-energy-enablement) | Which conditions prevent existing capability from being applied? |
 | [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | What prevents reliable execution, and how do we fix it and make it hold? |
 | [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | What do the author-reported practice accounts illustrate, and what remains unverified? |
+
+**A note from the author.** HEE comes from my life journey: my experience, knowledge, and wisdom, developed across Russia, Nigeria, and Bangladesh. In my own practice I have seen results from it (author-reported; not independently verified). Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
 
 ---
 
