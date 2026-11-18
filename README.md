@@ -3,8 +3,7 @@
 ### Examples from the Author’s Experience: Recognize HEE in Two Cases at Transport Companies and Six at Abul Khair Group
 
 **Md. Mozammel Hoque**  
-*Independent Management Researcher*  
-*Originator of Human Energy Economics (HEE)*
+*Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
 **Version 1.0 — Companion practice record**  
 **Initial publication date: 31 October 2026**  
@@ -16,11 +15,11 @@
 
 > **Evidence status.** These cases are examples from the author’s experience, reported by the author. They are not independent evidence and not controlled research. The author designed, carried out, and assessed the changes, and also originated HEE, so others must review any claim before it is treated as tested. **Not recorded** means this edition has no record of the item. **Unknown** means the missing information stops us from making a sound judgment. In line with AKG’s confidentiality policy, statistical data from AKG are not shared here, so Cases 3 to 8 are qualitative. The few figures in Cases 1 and 2 come from the author’s published LinkedIn profile. They are author-reported, and their baselines, periods, and measurement methods are Not recorded. Checking the AKG cases independently would need AKG’s permission. Evidence labels follow the [HEE Core README](https://github.com/titumozammel/human-energy-economics): [P] proposed and untested; [H] practice heuristic; [Illustrative] invented example. The changes were reported to reduce or change recurring work. In the support cases (Cases 3 and 5), the author reports that the freed capacity was used to meet continuing user growth. In Case 1 it went into more trips. The size of the freed capacity and the effect of each change are Not recorded. For the other cases, we do not know whether capacity was freed or how it was used.
 
-> **Scope of these cases.** These cases are examples from the author’s past and present experience. HEE was not named when they happened. In 2026 the author organized and scoped this experience, knowledge, and wisdom as HEE. Readers are invited to recognize HEE’s questions and reasoning in these cases, consider what fits their own context, and apply it with proportionate evidence and judgment. Cases 1 and 2 come from two transport companies, RR Transport and Bismillah Transport, where the author was acting CEO; they are not IT cases. Cases 3 to 8 come from the author’s work at AKG, mostly IT support. HEE applies to any department or operation. In your own situation, the Object is whatever your context makes it.
+> **Scope of these cases.** These cases are examples from the author’s past and present experience. HEE was not named when they happened. In 2026 the author organized and scoped this knowledge, experience, wisdom, and judgment as HEE. Readers are invited to recognize HEE’s questions and reasoning in these cases, consider what fits their own context, and apply it with proportionate evidence and judgment. Cases 1 and 2 come from two transport companies, RR Transport and Bismillah Transport, where the author was acting CEO; they are not IT cases. Cases 3 to 8 come from the author’s work at AKG, mostly IT support. HEE’s questions are not limited to IT; their usefulness in another department or operation must be assessed in context. In your own situation, the Object is whatever your context makes it.
 
 > **Approach.** HEE does not treat management as one formula for every situation. It is a way to organize your questions, and it comes from practice. Each problem is examined on its own terms. Practitioners use evidence and judgment to choose, adapt, and review what fits the context. HEE supports judgment that is based on evidence; it does not replace judgment.
 >
-> HEE draws on the author’s experience, knowledge, and wisdom, including applications and observed results reported by the author. Its broader claims about reliability, effectiveness, and added value remain open to independent testing, and the research sections state what would narrow or retire them. Readers are invited to test HEE in their own setting and, if they do not see the result they expect, to write to the author (see the author’s note).
+> HEE draws on the author’s knowledge, experience, wisdom, and judgment, developed through years of practice, including applications and observed results reported by the author. Its broader claims about reliability, effectiveness, and added value remain open to independent testing, and the research sections state what would narrow or retire them. Readers are invited to test HEE in their own setting and, if they do not see the result they expect, to write to the author (see the author’s note).
 
 Read the closest case to your own work first. You can skip the others.
 
@@ -66,7 +65,7 @@ These are real operating cases from the author’s practice, reported by the aut
 
 ## HEE in four questions
 
-**1. What is HEE?** Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a practice-driven approach: it comes from real work. This record is the companion practice record. It has eight examples from the author’s experience, two at transport companies and six at Abul Khair Group. HEE was not named when they happened. You are invited to recognize HEE’s questions and reasoning in them.
+**1. What is HEE?** Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) management approach to organizational capacity and sustainable execution. This record is the companion practice record. It has eight examples from the author’s experience, two at transport companies and six at Abul Khair Group. HEE was not named when they happened. You are invited to recognize HEE’s questions and reasoning in them.
 
 **2. What does HEE contribute?** HEE offers one connected way to ask three things: what limits execution, what evidence supports the answer, and whether others can review the decision and its results. It also asks two separate questions: was the capacity we used *Justified?*, and is the real demand of the next cycle *Covered?* This is a proposal. It is not yet an established finding, and it is not shown to be better than other approaches. This record adds examples from the author’s experience. They show where HEE questions can be found in real decisions, and where the evidence is Not recorded.
 
@@ -98,8 +97,8 @@ These are real operating cases from the author’s practice, reported by the aut
 | **RR Transport** (Case 1, outside AKG) | Monitoring by asking drivers “Where are you?”; long loaded-van trip; roadside breakdowns; handwritten records; hard-to-reconcile fuel records | Question changed to “Why are you there?”; job monitoring dashboard and mobile app with GPS tracking; reordered loading, fuelling and maintenance; controlled fuel issue | **RE-ENGINEER** (with Replace and Reduce effects) | Customer satisfaction and profitability improved; utilization 95–100%; service downtime reduced by 80% (author-reported; basis Not recorded) |
 | **Bismillah Transport** (Case 2, outside AKG) | Owner saw only financial statements; loss-making vehicles hidden in the total | Vehicle-wise profit and loss application, following the ABC/M concept | **ENABLE** (decision enablement) | Owner sees which vehicles lose money; changed drivers and sold vehicles (author-reported) |
 | **Performance Wizard** | Repeated application and desktop support requests | Scheduled self-service wizard | **REDUCE** | Slowness-related requests significantly reduced (author-reported) |
-| **RDP / Restart** | Human-mediated restart chain | Self-service restart | **REPLACE** | Calls reduced to zero |
-| **Hardware Health** | Recurring preventable incidents | Quarterly health checks and replacement of faulty parts | **RE-ENGINEER** | Related calls reduced to zero |
+| **RDP / Restart** | Human-mediated restart chain | Self-service restart | **REPLACE** | Reported reduction to zero; observation period and supporting records Not recorded |
+| **Hardware Health** | Recurring preventable incidents | Quarterly health checks and replacement of faulty parts | **RE-ENGINEER** | Related calls: reported reduction to zero; observation period and supporting records Not recorded |
 | **Report** | Slow, insufficiently contextual report | Report and system redesign | **RE-ENGINEER** | Report generation time reduced from minutes to seconds (operating observation, not a benchmark) |
 | **Capability** | Internal capability constrained by dependency | Role expansion and enablement | **ENABLE** | Applicable work done internally without external vendor cost (size of the saving Not recorded) |
 | **Procurement** | Predictable recurring requirements | Solution purchasing and month-wise stocking | **RE-ENGINEER + RETAIN** (a retain-and-redesign case, not drain removal) | Faster fulfillment, fewer process man-hours |
@@ -384,9 +383,9 @@ For the whole engagement, the author also reports that monthly revenue rose by 3
 
 **Context.** Time: a monthly review, 2018–2019. Object: each vehicle’s contribution, and the owner’s decisions about vehicles. Location: a 130-truck transport company.
 
-The Two Checks apply to each vehicle. *Justified?* asks whether a vehicle’s cost is justified by what it earns. *Covered?* asks whether the demand it serves can be met. The company-wide statements could not answer either question for a single vehicle. The vehicle-wise view could.
+Vehicle-wise profit and loss informs the inquiry but does not answer the Two Checks. *Justified?* Was capacity expenditure warranted, considering purpose, necessity, proportionality and alternatives? *Covered?* Can credible expected usable capacity meet legitimate next-cycle demand? This record does not document those assessments for individual vehicles.
 
-In the language of the Decision Point, the application gave the owner the information the owner needed, which is Decision Enablement. The owner could then state the reasons for changing a driver or selling a vehicle, and others could review them. That supports Decision Quality. This record does not check the quality of any decision.
+In the language of the Decision Point, the application gave the owner the information the owner needed, which is Decision Enablement. The owner could then state the reasons for changing a driver or selling a vehicle, and others could review them. That makes the basis of the choice more reviewable. This record does not check the quality of any decision.
 
 **Limits.** No figures are recorded for the vehicles, the drivers changed, or the vehicles sold. The owner’s own reasons are not recorded. The 35% revenue figure is for the whole engagement, not for this change alone. We did not assess whether the decisions were justified or whether future capacity is covered.
 
@@ -757,8 +756,8 @@ The Justified? entries show only what the record supports for each case: the aut
 | **RR Transport** (Case 1) | Not recorded (monitoring by asking drivers where they were; a long loaded-van trip; roadside breakdowns; handwritten records; hard-to-reconcile fuel records) | Customer satisfaction and profitability improved; profitability restored within 6 months; utilization 95–100%; service downtime reduced by 80% (author-reported; baselines, periods and basis Not recorded) | Reported: more trips (size Not recorded) | Legitimate demand retained (author judgment); the extra trips: Unknown unless assessed | Not assessed |
 | **Bismillah Transport** (Case 2) | Owner viewed financial statements only; vehicle-level results not visible (no figures) | Vehicle-wise profit and loss visible each month; the owner changed drivers and sold vehicles (author-reported); monthly revenue up 35% across the engagement (author-reported; not attributed to this change alone; baseline and period Not recorded) | Not recorded (Unknown) | Not assessed | Not assessed |
 | **Performance Wizard**¹ | Recurring daily requests; not quantified in this edition (drawn from a three-month log review) | Slowness-related requests significantly reduced (author-reported) | Reported: used to meet continuing user growth (Cases 3 and 5 together; size Not recorded) | Author judgment: recurring demand not warranted in this form | Not assessed |
-| **RDP / Restart**¹ | Recurring daily calls; not quantified in this edition | Reduced to zero | Not recorded (Unknown) | Author judgment: the multi-step chain not warranted | Not assessed |
-| **Hardware Health**¹ | Recurring daily calls; not quantified in this edition | Related calls reduced to zero | Reported: used to meet continuing user growth (Cases 3 and 5 together; size Not recorded) | Unknown pending assessment of necessity, proportionality, and alternatives (separate observation, author judgment: the incidents were preventable) | Not assessed |
+| **RDP / Restart**¹ | Recurring daily calls; not quantified in this edition | Reported reduction to zero; observation period and supporting records Not recorded | Not recorded (Unknown) | Author judgment: the multi-step chain not warranted | Not assessed |
+| **Hardware Health**¹ | Recurring daily calls; not quantified in this edition | Related calls: reported reduction to zero; observation period and supporting records Not recorded | Reported: used to meet continuing user growth (Cases 3 and 5 together; size Not recorded) | Unknown pending assessment of necessity, proportionality, and alternatives (separate observation, author judgment: the incidents were preventable) | Not assessed |
 | **Report** | Minutes; operating observation, not a benchmark | Seconds; utilization below threshold (threshold Not recorded) | Not recorded (Unknown) | Not assessed | Not assessed |
 | **Capability** | Vendor cost and internal time Not recorded | Applicable work done internally without external vendor cost | Not recorded (Unknown) | Not assessed | Not assessed |
 | **Procurement** | Not recorded | Faster fulfillment, fewer process man-hours (no figures) | Not recorded (Unknown) | Purpose legitimate (author judgment); expenditure justified: Unknown unless assessed | Not assessed |
@@ -958,7 +957,7 @@ Where capacity is released, it should be protected and deliberately redirected t
 
 Therefore:
 
-> **Stopping organizational drain creates capacity opportunity; deliberate application converts that opportunity into value.**
+> **Stopping drain may create capacity opportunity; deliberate application and its value consequences require separate examination.**
 
 For Cases 3 and 5 the author reports that the capacity gained was used to meet continuing user growth. Business operations kept growing, with new businesses, new users, and new offices, so user numbers rose in each office location, while the number of IT employees was not increased and services continued to function well. In the author’s account, IT service could not have been kept consistent without self-service and automation, and the author regards this as the result of the practice that was later named HEE. This is the author’s judgment and is not independently verified. It is use for legitimate demand, not a documented case of silent reabsorption. The size of the capacity released, service levels over the period, who owned the destination, and the separate contribution of each change are Not recorded, and no Covered? assessment was made. For the transport case (Case 1) the author reports that the freed driver and vehicle capacity went into more trips (author-reported; size Not recorded). For the other cases the destination of released capacity is **Unknown**. The Core README's reabsorption prediction (P13) is proposed and untested, and this record neither supports nor tests it.
 
@@ -1116,7 +1115,7 @@ Further development therefore requires:
 
 The broader progression is:
 
-**Theory → Application → Evidence → Research**
+**Practice → Observation → Structured questions and methods → Further application and review**
 
 ---
 
@@ -1290,7 +1289,7 @@ It is a companion to the [HEE Core README](https://github.com/titumozammel/human
 
 The intended progression remains:
 
-**Theory → Application → Evidence → Research → Refinement**
+**Practice → Observation → Structured questions and methods → Further application and review**
 
 ---
 
@@ -1321,7 +1320,7 @@ Choose the destination that answers your next question. You need not read every 
 | [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | What prevents reliable execution, and how do we fix it and make it hold? |
 | [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | What do the author-reported practice accounts illustrate, and what remains unverified? |
 
-**A note from the author.** HEE comes from my life journey: my experience, knowledge, and wisdom, developed across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I always began with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my experience, knowledge, and wisdom as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
+**A note from the author.** HEE comes from my knowledge, experience, wisdom, and judgment, developed through years of practice across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I always began with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my knowledge, experience, wisdom, and judgment as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com). Website: [ovinabo.com](https://ovinabo.com/).
 
 ---
 
