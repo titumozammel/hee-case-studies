@@ -54,8 +54,6 @@ The author saw that this way of working used up capacity in many places:
 - Records were written by hand in different books. This cost time and effort, and the data were scattered.
 - After loading, maintenance sometimes took days. Some goods with expiry dates were damaged because they expired while the loaded van waited.
 
-The author describes the management before the change as poor.
-
 ### What the author did and why
 
 The author changed the question first, and then the process.
@@ -91,7 +89,7 @@ In the author’s account, changing the question and improving the operating pro
 - managers and drivers satisfied with the automation (the author’s observation); and
 - more trips. The author reports this as the capacity gain: the driver and vehicle time that was freed went into more trips.
 
-**Not known.** The baselines, periods and measurement methods of the figures are Not recorded, and nobody else has verified them. The new question, the new order of work, the health check, fuel control, the application and the dashboard worked together, so we cannot separate their effects. The size of the freed capacity is Not recorded. We did not assess whether the extra trips were justified or whether future capacity is covered.
+**Not known.** The baselines, periods and measurement methods of the figures are Not recorded, and nobody else has verified them. The new question, the new order of work, the health check, fuel control, the application and the dashboard worked together, so their effects cannot be separated. The size of the freed capacity is Not recorded. This record does not assess whether the extra trips were justified or whether future capacity is covered.
 
 ### Where to recognize HEE
 
@@ -135,13 +133,13 @@ Nothing was removed in this case. The author gave the owner the evidence to deci
 
 In the author’s account, the vehicle-wise profit and loss improved the quality of the owner’s decisions. The owner could see which vehicles lose money every month and are a burden on the business. The financial statements did not show this. The author reports that the owner changed drivers and sold vehicles (author-reported; no counts recorded). The application also supported cost control and income tracking.
 
-For the whole engagement, the author also reports that monthly revenue rose by 35%, and that discipline, accountability, and performance management became stronger (author-reported; baseline and period Not recorded). We do not attribute these to the vehicle-wise application alone.
+For the whole engagement, the author also reports that monthly revenue rose by 35%, and that discipline, accountability, and performance management became stronger (author-reported; baseline and period Not recorded). This record does not attribute these to the vehicle-wise application alone.
 
-**Not known.** No figures are recorded for the vehicles, the drivers changed, or the vehicles sold. The owner’s own reasons are not recorded. The 35% revenue figure is for the whole engagement, not for this change alone. Where any released capacity went is Not recorded. We did not assess whether the decisions were justified or whether future capacity is covered.
+**Not known.** No figures are recorded for the vehicles, the drivers changed, or the vehicles sold. The owner’s own reasons are not recorded. The 35% revenue figure is for the whole engagement, not for this change alone. Where any released capacity went is Not recorded. This record does not assess whether the decisions were justified or whether future capacity is covered.
 
 ### Where to recognize HEE
 
-Vehicle-wise profit and loss informs the inquiry but does not answer the Two Checks. *Justified?* Was capacity expenditure warranted, considering purpose, necessity, proportionality and alternatives? *Covered?* Can credible expected usable capacity meet legitimate next-cycle demand? This record does not document those assessments for individual vehicles.
+Vehicle-wise profit and loss informs the inquiry but does not answer the Two Checks. *Justified?* Was the capacity spent warranted, considering purpose, necessity, proportionality and alternatives? *Covered?* Can credible expected usable capacity meet legitimate next-cycle demand? This record does not document those assessments for individual vehicles.
 
 In the language of the Decision Point, the application gave the owner the information the owner needed, which is Decision Enablement. The owner could then state the reasons for changing a driver or selling a vehicle, and others could review them. That makes the basis of the choice more reviewable. This record does not check the quality of any decision.
 
@@ -533,7 +531,7 @@ This is the author’s retrospective reading, not a procedure; the Core README�
 
 ## Evidence recorded and limitations
 
-The *Justified?* column shows only what the record supports for each case: the author’s judgment where one was recorded, Unknown where the judgment awaits assessment, and Not assessed where none was made. These are the Core README’s two checks, and the author’s judgments have no independent check. No case was assessed for *Covered?*. *Not recorded* means this edition contains no record of the figure; it is not zero. The data behind a Not recorded cell may exist but are not shared in this edition.
+The *Justified?* column shows only what the record supports for each case: the author’s judgment where one was recorded, Unknown where the judgment awaits assessment, and Not assessed where none was made. These are the Core README’s Two Checks, and the author’s judgments have no independent check. No case was assessed for *Covered?*. *Not recorded* means this edition contains no record of the figure; it is not zero. The data behind a Not recorded cell may exist but are not shared in this edition.
 
 | Case | Baseline and period | Reported change | Where released capacity went | Justified? | Covered? |
 |---|---|---|---|---|---|
